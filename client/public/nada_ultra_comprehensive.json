@@ -1,0 +1,390 @@
+{
+  "overview": {
+    "total_dealerships": 16957,
+    "avg_revenue_per_dealer": "$73,000,000",
+    "total_industry_revenue": "$1.24T",
+    "total_employees": 1159000,
+    "avg_employees": 68,
+    "net_profit_margin": "2.8%",
+    "gross_profit_margin": "15.6%",
+    "roi": "32.2%"
+  },
+  "financial_profile": {
+    "total_sales": {
+      "per_dealer": "$73,000,000",
+      "industry_total": "$1.24T"
+    },
+    "gross_profit": {
+      "per_dealer": "$11,400,000",
+      "industry_total": "$193.3B",
+      "margin": "15.6%"
+    },
+    "operating_expenses": {
+      "per_dealer": "$9,300,000",
+      "industry_total": "$157.7B"
+    },
+    "net_profit": {
+      "per_dealer": "$2,100,000",
+      "industry_total": "$35.6B",
+      "margin": "2.8%"
+    }
+  },
+  "revenue_breakdown": [
+    {
+      "category": "New Vehicle Sales",
+      "per_dealer": "$47,500,000",
+      "industry_total": "$805.4B",
+      "percentage": 65.1
+    },
+    {
+      "category": "Used Vehicle Sales",
+      "per_dealer": "$16,100,000",
+      "industry_total": "$273.0B",
+      "percentage": 22.1
+    },
+    {
+      "category": "Service & Parts",
+      "per_dealer": "$7,900,000",
+      "industry_total": "$134.0B",
+      "percentage": 10.8
+    },
+    {
+      "category": "F&I",
+      "per_dealer": "$1,500,000",
+      "industry_total": "$25.4B",
+      "percentage": 2.1
+    }
+  ],
+  "operating_expenses_breakdown": [
+    {
+      "category": "Personnel",
+      "per_dealer": "$5,200,000",
+      "industry_total": "$88.2B",
+      "percentage": 55.9
+    },
+    {
+      "category": "Advertising",
+      "per_dealer": "$650,000",
+      "industry_total": "$11.0B",
+      "percentage": 7.0
+    },
+    {
+      "category": "Rent & Facility",
+      "per_dealer": "$580,000",
+      "industry_total": "$9.8B",
+      "percentage": 6.2
+    },
+    {
+      "category": "Administrative",
+      "per_dealer": "$1,100,000",
+      "industry_total": "$18.7B",
+      "percentage": 11.8
+    },
+    {
+      "category": "Other Operating",
+      "per_dealer": "$1,770,000",
+      "industry_total": "$30.0B",
+      "percentage": 19.0
+    }
+  ],
+  "advertising_marketing": {
+    "total_spend_per_dealer": "$650,000",
+    "total_industry_spend": "$11.0B",
+    "spend_per_new_vehicle": "$890",
+    "spend_per_used_vehicle": "$320",
+    "digital_marketing_percentage": 62.0,
+    "traditional_marketing_percentage": 38.0
+  },
+  "payroll_employment": {
+    "total_payroll_per_dealer": "$5,200,000",
+    "total_industry_payroll": "$88.2B",
+    "avg_employees_per_dealer": 68,
+    "total_industry_employees": 1159000,
+    "employee_breakdown": {
+      "Sales": {
+        "count": 18,
+        "percentage": 26.5
+      },
+      "Service Technicians": {
+        "count": 16,
+        "percentage": 23.5
+      },
+      "Parts": {
+        "count": 8,
+        "percentage": 11.8
+      },
+      "Management": {
+        "count": 9,
+        "percentage": 13.2
+      },
+      "Administrative": {
+        "count": 11,
+        "percentage": 16.2
+      },
+      "Body Shop": {
+        "count": 6,
+        "percentage": 8.8
+      }
+    }
+  },
+  "new_vehicle_department": {
+    "sales_per_dealer": "$47,500,000",
+    "industry_total": "$805.4B",
+    "units_sold_per_dealer": 730,
+    "total_industry_units": 12378100,
+    "avg_price_per_unit": "$65,068",
+    "gross_profit_per_unit": "$3,200",
+    "inventory_days_supply": 58,
+    "trends_8year": [
+      {
+        "year": 2017,
+        "units": 17200000,
+        "avg_price": 34500
+      },
+      {
+        "year": 2018,
+        "units": 17300000,
+        "avg_price": 36200
+      },
+      {
+        "year": 2019,
+        "units": 17100000,
+        "avg_price": 38100
+      },
+      {
+        "year": 2020,
+        "units": 14500000,
+        "avg_price": 40200
+      },
+      {
+        "year": 2021,
+        "units": 15100000,
+        "avg_price": 45800
+      },
+      {
+        "year": 2022,
+        "units": 13900000,
+        "avg_price": 48200
+      },
+      {
+        "year": 2023,
+        "units": 15500000,
+        "avg_price": 49100
+      },
+      {
+        "year": 2024,
+        "units": 12378100,
+        "avg_price": 65068
+      }
+    ]
+  },
+  "used_vehicle_department": {
+    "sales_per_dealer": "$16,100,000",
+    "industry_total": "$273.0B",
+    "units_sold_per_dealer": 580,
+    "total_industry_units": 9835060,
+    "avg_price_per_unit": "$27,759",
+    "gross_profit_per_unit": "$2,100",
+    "inventory_days_supply": 42,
+    "trends_8year": [
+      {
+        "year": 2017,
+        "units": 38500000,
+        "avg_price": 19200
+      },
+      {
+        "year": 2018,
+        "units": 40200000,
+        "avg_price": 19800
+      },
+      {
+        "year": 2019,
+        "units": 40800000,
+        "avg_price": 20500
+      },
+      {
+        "year": 2020,
+        "units": 35400000,
+        "avg_price": 21800
+      },
+      {
+        "year": 2021,
+        "units": 37100000,
+        "avg_price": 25300
+      },
+      {
+        "year": 2022,
+        "units": 36600000,
+        "avg_price": 28200
+      },
+      {
+        "year": 2023,
+        "units": 35200000,
+        "avg_price": 28900
+      },
+      {
+        "year": 2024,
+        "units": 9835060,
+        "avg_price": 27759
+      }
+    ]
+  },
+  "service_parts_department": {
+    "total_sales_per_dealer": "$7,900,000",
+    "total_industry_sales": "$134.0B",
+    "labor_sales_per_dealer": "$4,700,000",
+    "labor_industry_total": "$79.7B",
+    "parts_sales_per_dealer": "$3,200,000",
+    "parts_industry_total": "$54.3B",
+    "technician_count_per_dealer": 16,
+    "total_industry_technicians": 271312,
+    "avg_labor_rate": "$145",
+    "repair_orders_per_month": 850,
+    "customer_pay_percentage": 58.0,
+    "warranty_percentage": 28.0,
+    "internal_percentage": 14.0,
+    "labor_breakdown": [
+      {
+        "type": "Customer Pay",
+        "per_dealer": "$2,726,000",
+        "industry_total": "$46.2B",
+        "percentage": 58.0
+      },
+      {
+        "type": "Warranty",
+        "per_dealer": "$1,316,000",
+        "industry_total": "$22.3B",
+        "percentage": 28.0
+      },
+      {
+        "type": "Internal",
+        "per_dealer": "$658,000",
+        "industry_total": "$11.2B",
+        "percentage": 14.0
+      }
+    ],
+    "parts_breakdown": [
+      {
+        "type": "Retail Parts",
+        "per_dealer": "$1,920,000",
+        "industry_total": "$32.6B",
+        "percentage": 60.0
+      },
+      {
+        "type": "Wholesale Parts",
+        "per_dealer": "$960,000",
+        "industry_total": "$16.3B",
+        "percentage": 30.0
+      },
+      {
+        "type": "Body Shop Parts",
+        "per_dealer": "$320,000",
+        "industry_total": "$5.4B",
+        "percentage": 10.0
+      }
+    ]
+  },
+  "body_shop_department": {
+    "penetration_percentage": 42.0,
+    "avg_sales_per_dealer_with_bodyshop": "$1,200,000",
+    "total_industry_sales": "$8.6B",
+    "trends_8year": [
+      {
+        "year": 2017,
+        "penetration": 38.0,
+        "avg_sales": 950000
+      },
+      {
+        "year": 2018,
+        "penetration": 39.0,
+        "avg_sales": 980000
+      },
+      {
+        "year": 2019,
+        "penetration": 40.0,
+        "avg_sales": 1020000
+      },
+      {
+        "year": 2020,
+        "penetration": 38.0,
+        "avg_sales": 890000
+      },
+      {
+        "year": 2021,
+        "penetration": 40.0,
+        "avg_sales": 1050000
+      },
+      {
+        "year": 2022,
+        "penetration": 41.0,
+        "avg_sales": 1120000
+      },
+      {
+        "year": 2023,
+        "penetration": 41.5,
+        "avg_sales": 1180000
+      },
+      {
+        "year": 2024,
+        "penetration": 42.0,
+        "avg_sales": 1200000
+      }
+    ]
+  },
+  "ownership_structure": {
+    "single_point": {
+      "percentage": 32.0,
+      "count": 5426
+    },
+    "small_group_2_5": {
+      "percentage": 28.0,
+      "count": 4748
+    },
+    "medium_group_6_20": {
+      "percentage": 25.0,
+      "count": 4239
+    },
+    "large_group_21_plus": {
+      "percentage": 15.0,
+      "count": 2544
+    }
+  },
+  "sales_volume_distribution": {
+    "under_300_units": {
+      "percentage": 18.0,
+      "count": 3052
+    },
+    "300_599_units": {
+      "percentage": 25.0,
+      "count": 4239
+    },
+    "600_999_units": {
+      "percentage": 28.0,
+      "count": 4748
+    },
+    "1000_1499_units": {
+      "percentage": 17.0,
+      "count": 2883
+    },
+    "1500_plus_units": {
+      "percentage": 12.0,
+      "count": 2035
+    }
+  },
+  "facility_metrics": {
+    "avg_facility_size_sqft": 52000,
+    "avg_lot_size_acres": 8.5,
+    "avg_showroom_size_sqft": 12000,
+    "avg_service_bays": 18,
+    "avg_body_shop_bays": 6
+  },
+  "key_performance_indicators": {
+    "inventory_turnover_new": 6.3,
+    "inventory_turnover_used": 8.7,
+    "service_absorption_rate": "85%",
+    "customer_retention_rate": "58%",
+    "employee_retention_rate": "72%",
+    "avg_transaction_time_new": "3.2 hours",
+    "avg_transaction_time_used": "2.1 hours"
+  }
+}

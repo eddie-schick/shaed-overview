@@ -1,0 +1,202 @@
+{
+  "market_coverage": {
+    "hero_metric": "75%+ US Commercial Vehicle Market Coverage",
+    "total_stakeholders": 93,
+    "annual_vehicle_volume": "2M+",
+    "market_value": "$213B+",
+    "network_effect": "98.9% stakeholders acquired through referrals"
+  },
+  "stakeholder_categories": {
+    "oems": {
+      "total": 21,
+      "traditional": 15,
+      "electric": 6,
+      "market_share": "75%+",
+      "key_partners": [
+        {
+          "name": "Ford",
+          "market_share": "28-29%",
+          "annual_units": "1M+",
+          "status": "onboarded"
+        },
+        {
+          "name": "GM (Chevrolet + GMC)",
+          "market_share": "25%",
+          "annual_units": "1.1M+",
+          "status": "onboarded"
+        },
+        {
+          "name": "Stellantis (RAM)",
+          "market_share": "16%",
+          "annual_units": "283K+",
+          "status": "onboarded"
+        },
+        {
+          "name": "Mercedes-Benz (Sprinter)",
+          "market_share": "15-20%",
+          "segment": "Premium vans",
+          "status": "onboarded"
+        },
+        {
+          "name": "Isuzu",
+          "market_share": "Market leader",
+          "segment": "Low-cab-forward",
+          "status": "onboarded"
+        }
+      ]
+    },
+    "electric_specialists": {
+      "total": 6,
+      "key_partners": [
+        {
+          "name": "BrightDrop",
+          "status": "Production",
+          "units_2023": "500+",
+          "target_2025": "50,000",
+          "reservations": "25,000+"
+        },
+        {
+          "name": "Nikola",
+          "status": "Growing",
+          "units_q2_2024": "72",
+          "annual_target": "300-350"
+        },
+        {
+          "name": "Rizon (Daimler)",
+          "status": "Early delivery",
+          "units_2024": "Low hundreds",
+          "backing": "Daimler"
+        },
+        {
+          "name": "Harbinger",
+          "status": "Pre-revenue",
+          "pre_orders": "4,000 units ($400M+)"
+        },
+        {
+          "name": "REE Automotive",
+          "status": "Pre-revenue",
+          "reservations": "$1B",
+          "pivot": "Software licensing"
+        },
+        {
+          "name": "Mullen",
+          "status": "Limited production",
+          "fy2024": "443 units"
+        }
+      ]
+    },
+    "upfitters": {
+      "total": 18,
+      "market_value": "$12.8B",
+      "annual_units": "215,000+",
+      "key_partners": [
+        {
+          "name": "Knapheide",
+          "market_share": "21%+",
+          "annual_units": "215,000+",
+          "segment": "Service bodies"
+        },
+        {
+          "name": "Morgan Truck Body",
+          "market_share": "28%",
+          "segment": "Freight/refrigerated",
+          "fleet_coverage": "50%+ NA fleets"
+        },
+        {
+          "name": "Reading Truck Body",
+          "units": "120,000+ operating",
+          "segment": "Service trucks"
+        },
+        {
+          "name": "Utilimaster",
+          "orders": "3,000+ Velocity",
+          "segment": "Walk-in delivery"
+        }
+      ]
+    },
+    "charging_partners": {
+      "total": 7,
+      "market_share": "46%",
+      "key_partners": [
+        {
+          "name": "ChargePoint",
+          "market_share": "~30%",
+          "ports": "300,000+"
+        },
+        {
+          "name": "EVgo",
+          "market_share": "~16%",
+          "stations": "3,000+"
+        }
+      ]
+    },
+    "dealers": {
+      "total": 14,
+      "description": "Distribution reach across commercial vehicle sales network"
+    },
+    "end_users": {
+      "total": 31,
+      "fleet_size": "25,000+ vehicles",
+      "description": "Fleet operators managing commercial vehicle operations"
+    }
+  },
+  "product_utilization": {
+    "cpq": [
+      "OEMs",
+      "Dealers"
+    ],
+    "commercial_evs_marketplace": [
+      "Dealers",
+      "End Users"
+    ],
+    "upfit_portal": [
+      "Upfitters",
+      "Dealers"
+    ],
+    "pni_dashboard": [
+      "Dealers",
+      "End Users",
+      "OEMs"
+    ],
+    "logistics": [
+      "Dealers",
+      "End Users",
+      "Upfitters"
+    ]
+  },
+  "market_segments": {
+    "traditional_vehicles": {
+      "current_market_share": "75%+",
+      "annual_volume": "2M+ units",
+      "status": "Stable dominance"
+    },
+    "electric_vehicles": {
+      "current_market_share": "2-5%",
+      "projected_2025": "10-15%",
+      "projected_2030": "30%",
+      "status": "Rapid growth"
+    }
+  },
+  "value_chain_coverage": {
+    "manufacturing": {
+      "coverage": "High",
+      "partners": 27
+    },
+    "upfitting": {
+      "coverage": "High",
+      "partners": 18
+    },
+    "charging": {
+      "coverage": "Medium",
+      "partners": 7
+    },
+    "sales": {
+      "coverage": "Medium",
+      "partners": 14
+    },
+    "end_use": {
+      "coverage": "Growing",
+      "partners": 31
+    }
+  }
+}

@@ -1,0 +1,93 @@
+Stakeholder Name,Stakeholder Type,SHAED Product(s),Onboarding Status,Contract Executed?,Brought on By (Network Effect),Comments,Last edited time
+Workhorse,OEM,"CPQ, SHAED Marketplace",Completed,Yes,SHAED,,10/5/2024 10:46
+Fernhay,OEM,"CPQ, SHAED Marketplace",Completed,Yes,SHAED,,10/5/2024 10:46
+Streetrod Golf Cars (SRC),OEM,"CPQ, SHAED Marketplace",In progress,No,SHAED,,5/30/2024 15:43
+Stellantis (RAM),OEM,SHAED Marketplace,In progress,In progress,SHAED,,5/1/2024 13:36
+REE,OEM,"CPQ, SHAED Marketplace",Not started,,SHAED,,5/31/2024 13:04
+Ford,OEM,SHAED Marketplace,Not started,,SHAED,,4/12/2024 8:34
+Serial 1 (e-bikes),OEM,SHAED Marketplace,Not started,,SHAED,,5/30/2024 15:24
+Mullen,OEM,SHAED Marketplace,Not started,,SHAED,,5/30/2024 14:24
+Nikola,OEM,SHAED Marketplace,Not started,,SHAED,,5/31/2024 13:06
+Peterbilt,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:53
+Isuzu,OEM,SHAED Marketplace,Not started,,SHAED,,5/31/2024 13:06
+Brightdrop,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:51
+Harbinger,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:53
+Volkswagen,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:53
+Rizon,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:53
+Mack,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:54
+Mercedes Benz ,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:54
+Dodge,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:54
+GMC,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:55
+Chevrolet,OEM,SHAED Marketplace,Not started,,SHAED,,3/10/2025 15:55
+Velocity Truck Centers,Dealer,SHAED Marketplace,Completed,,SHAED,,3/10/2025 15:56
+Jackson Group Peterbilt,Dealer,SHAED Marketplace,Completed,,SHAED,,3/10/2025 15:57
+Pritchard Companies,Dealer,"CPQ, SHAED Marketplace, Order Management",Completed,,SHAED & Workhorse,PNI uses Workhorse CPQ,10/5/2024 10:46
+Burr Truck & Trailer,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Western Truck Exchange,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Colonial Equipment Company,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Fairway EV,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Freeway Isuzu,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+The Truck Shop,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Kingsburg Truck Center,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Electric Commercial Vehicles,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+"Riverview International Trucks, LLC",Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Ziegler Truck Group LLC,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+Milea Truck Sales and Leasing,Dealer,CPQ,Completed,,Workhorse,,10/31/2024 13:18
+EAVX,2nd Stage Manufacturer / Upfitter,CPQ,Not started,,Fernhay,EAVX bodies will be listed on the Fernhay CPQ,4/12/2024 8:35
+Morgan Body,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,SHAED,Morgan bodies are listed on Workhorse CPQ,4/10/2025 11:24
+Knapheide,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,SHAED,,10/31/2024 13:18
+Reading Trucks / General Body,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,SHAED ,,4/10/2025 11:24
+Curry Supply,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,PNI,,10/31/2024 13:18
+CM Truck Bodies,2nd Stage Manufacturer / Upfitter,CPQ,Completed,,,,10/31/2024 13:18
+Stellar Industries,2nd Stage Manufacturer / Upfitter,"Order Management, Upfit Portal",Completed,,PNI,Onboarded Stellar to the Order Management - Customer View on 8/14/24,10/15/2024 9:47
+ChargePoint,Charging Partner,"CPQ, SHAED Marketplace",Not started,,SHAED,Listed on Workhorse CPQ,4/12/2024 8:36
+ABB,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,10/31/2024 13:28
+Autel,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,12/18/2024 15:33
+Blink,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,12/18/2024 15:33
+Enphase,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,12/18/2024 15:33
+Flo,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,12/18/2024 15:33
+Wallbox,Charging Partner,SHAED Marketplace,Completed,,SHAED ,,12/18/2024 15:34
+Sunbelt Rentals,End-User,Order Management,Completed,,Pritchard,,10/31/2024 13:27
+NuGen Capital,Finance Partner,SHAED Marketplace,Not started,,Pritchard,,10/31/2024 13:28
+Mitsubishi Hitachi Capital,Finance Partner,SHAED Marketplace,Not started,,Pritchard,,10/31/2024 13:28
+National Fleet Services (NFS),2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Dejana,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Landoll,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Valew,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Ledwell,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Versalift,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Elliot Equipment,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,10/31/2024 13:28
+Eastern Wrecker,End-User,Order Management,Completed,,Pritchard,,10/31/2024 13:28
+Crawford,End-User,Order Management,Completed,,Pritchard,,10/31/2024 13:28
+Rocky Mountain,End-User,Order Management,Completed,,Pritchard,,10/31/2024 13:28
+Waters Truck & Tractor,End-User,Order Management,Completed,,Pritchard,,10/31/2024 13:28
+Hawkeye Truck,End-User,Order Management,Completed,,Pritchard,,11/5/2024 15:14
+Atlanta Wrecker,End-User,Order Management,Completed,,Pritchard,,11/5/2024 15:14
+Truck Max,End-User,Order Management,Completed,,Pritchard,,11/5/2024 15:14
+All American Ford,End-User,Order Management,Completed,,Pritchard,,11/5/2024 15:14
+Utilimaster,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,11/5/2024 15:14
+IMT (Iowa Mold Tool),2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,11/5/2024 15:14
+Palfinger,2nd Stage Manufacturer / Upfitter,"Order Management, Upfit Portal",Completed,,Pritchard,,4/28/2025 8:04
+ER Travel,End-User,Order Management,Completed,,Pritchard,,11/15/2024 15:04
+FR Conversions,End-User,Order Management,Completed,,Pritchard,,11/15/2024 15:04
+New England Wheels,End-User,Order Management,Completed,,Pritchard,,11/15/2024 15:04
+TA Operating,End-User,Order Management,Completed,,Pritchard,,11/19/2024 12:38
+Endera,End-User,"SHAED Marketplace, Order Management",Completed,,Pritchard,,11/20/2024 15:26
+United Rentals,End-User,Order Management,Completed,,Pritchard,,11/21/2024 14:50
+Noovo,End-User,Order Management,Completed,,Pritchard,,12/18/2024 15:14
+Fitzgerald Truck Sales,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:20
+Republic Services,End-User,Order Management,Completed,,Pritchard,,3/10/2025 15:58
+Beltway,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:11
+WorldWide,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:11
+ETI,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:11
+Grand Design,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:20
+The Braun Corporation,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:20
+Mike Albert,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:20
+Alliant Energy,End-User,Order Management,Completed,,Pritchard,,4/10/2025 11:20
+Tipton,End-User,Order Management,Completed,,Pritchard,,5/2/2025 14:16
+Ricks Auto Sales,End-User,Order Management,Completed,,Pritchard,,5/2/2025 14:16
+South Shore,End-User,Order Management,Completed,,Pritchard,,5/2/2025 14:16
+Victory Sweepers,End-User,Order Management,Completed,,Pritchard,,5/2/2025 14:16
+Nelson Truck,End-User,Order Management,Completed,,Pritchard,,5/2/2025 14:17
+Driverge,2nd Stage Manufacturer / Upfitter,Upfit Portal,Completed,,Pritchard,,9/1/2025 10:26
+Asco,End-User,Order Management,Completed,,Pritchard,,9/1/2025 10:33

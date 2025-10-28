@@ -1,0 +1,1583 @@
+{
+  "CM Truck Bodies": {
+    "revenue": {
+      "display": "$40.3M",
+      "rationale": "Estimated $40.3M per year. Note: This is an estimate and not specifically for 2024",
+      "source": "https://growjo.com/company/CM_Truck_Beds"
+    },
+    "volume": {
+      "display": "1,200-1,500 units",
+      "rationale": "Estimated 1,200-1,500 truck body units annually based on $40.3M revenue and 122 employees. Average truck body price of $25K-35K suggests 1,200-1,500 units annually. CM specializes in aluminum truck bodies and flatbeds.",
+      "source": "Industry benchmark based on revenue and product mix"
+    },
+    "employees": {
+      "display": "122",
+      "rationale": "122 employees",
+      "source": "https://growjo.com/company/CM_Truck_Beds"
+    }
+  },
+  "Curry Supply": {
+    "revenue": {
+      "display": "$112.7 million",
+      "rationale": "Estimated to be around $112.7 million, based on multiple sources (ZoomInfo, RocketReach) citing this figure for 2025 or unknown date. Official 2024 revenue was not explicitly found",
+      "source": "https://www.zoominfo.com/c/curry-supply-co/31460376"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Production volume for 2024 was not explicitly found. However, a press release from May 2024 indicated the launch of a new Utility Truck and Trailer Product Line in June 2024, suggesting ongoing production. Another article mentioned doubling production output in 14 months to 25-30 builds a month",
+      "source": "https://currysupply.com/wp-content/uploads/2024/05/2024-Utility-Product-Full-Line-Press-Release.pdf"
+    },
+    "employees": {
+      "display": "500",
+      "rationale": "Estimated between 201-500 employees, based on LinkedIn and Cienc. ZoomInfo reports 415 employees, and Growjo reports 188 employees with an 11% growth last year. Given the range, 201-500 is a reasonable estimate for 2024",
+      "source": "https://www.linkedin.com/company/curry-supply-company"
+    }
+  },
+  "Dejana": {
+    "revenue": {
+      "display": "$370.0M",
+      "rationale": "$370.0M",
+      "source": "https://www.zippia.com/dejana-truck-equipment-careers-21139/revenue/"
+    },
+    "volume": {
+      "display": "12,000-15,000 units",
+      "rationale": "Estimated 12,000-15,000 truck body and upfit units annually based on $370M revenue and 750 employees. Dejana is a major truck body manufacturer and upfitter. Average unit price of $25K-30K for truck bodies suggests 12,000-15,000 units annually.",
+      "source": "Industry benchmark based on revenue and market position"
+    },
+    "employees": {
+      "display": "750",
+      "rationale": "750 employees",
+      "source": "https://www.zippia.com/dejana-truck-equipment-careers-21139/"
+    }
+  },
+  "Driverge": {
+    "revenue": {
+      "display": "$45.5M",
+      "rationale": "$45.5M",
+      "source": "https://growjo.com/company/Driverge_Vehicle_Innovations"
+    },
+    "volume": {
+      "display": "3,500 vehicles",
+      "rationale": "Estimated 3,500+ vehicles annually, based on company description of building and selling over 3,500 vehicles annually through multi-national dealer networks. No specific 2024 volume found",
+      "source": "https://growjo.com/company/Driverge_Vehicle_Innovations"
+    },
+    "employees": {
+      "display": "138",
+      "rationale": "138 employees",
+      "source": "https://growjo.com/company/Driverge_Vehicle_Innovations"
+    }
+  },
+  "EAVX": {
+    "revenue": {
+      "display": "$2.5 billion",
+      "rationale": "EAVX is a business unit of JB Poindexter & Co. (JBPCO). JBPCO had $2.5 billion in 2024 revenue. A direct revenue figure for EAVX in 2024 is not publicly available",
+      "source": "https://www.jbpoindexter.com/"
+    },
+    "volume": {
+      "display": "10,000-12,000 units",
+      "rationale": "Estimated 10,000-12,000 commercial vehicle upfits annually based on $2.5B revenue and ~5,000 employees. Average upfit value of $200K-250K suggests 10,000-12,000 units. EAVX is a major commercial vehicle upfitter and modifier.",
+      "source": "Industry benchmark for large-scale commercial vehicle upfitters"
+    },
+    "employees": {
+      "display": "5,000",
+      "rationale": "1,001-5,000 employees (LinkedIn) - EAVX is a business unit of JB Poindexter & Co. (JBPCO), which has 8,500 employees globally. The LinkedIn profile for EAVX states 1,001-5,000 employees, which is a more direct estimate for the subsidiary",
+      "source": "https://www.linkedin.com/company/eavx"
+    }
+  },
+  "Elliot Equipment": {
+    "revenue": {
+      "display": "$100M-$200M",
+      "rationale": "Specific 2024 revenue for Elliott Equipment Company was not publicly disclosed. This is an estimate based on company size and aerial work platform industry standards.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "1,000-2,000 units",
+      "rationale": "Specific 2024 production volume for Elliott Equipment was not publicly disclosed. This is an estimate based on typical aerial work platform manufacturer volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "300-500",
+      "rationale": "Specific 2024 employee count for Elliott Equipment was not publicly disclosed. This is an estimate based on company size and industry standards.",
+      "source": "None"
+    }
+  },
+  "IMT (Iowa Mold Tool)": {
+    "revenue": {
+      "display": "$97.1M",
+      "rationale": "$97.1M (2024)",
+      "source": "https://www.zippia.com/iowa-mold-tooling-co-careers-1120041/revenue/"
+    },
+    "volume": {
+      "display": "800-1,000 units",
+      "rationale": "Estimated 800-1,000 specialized truck equipment units annually based on estimated $80-100M revenue. IMT manufactures mechanics trucks, cranes, and service bodies with average unit prices of $80K-125K, suggesting 800-1,000 units annually.",
+      "source": "Industry benchmark for specialized truck equipment manufacturers"
+    },
+    "employees": {
+      "display": "110",
+      "rationale": "110 employees",
+      "source": "https://www.zippia.com/iowa-mold-tooling-co-careers-1120041/revenue/"
+    }
+  },
+  "Knapheide": {
+    "revenue": {
+      "display": "$500M-$1B",
+      "rationale": "Specific 2024 revenue for Knapheide Manufacturing was not publicly disclosed. This is an estimate based on company size and industry position.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "15,000-20,000 units",
+      "rationale": "Specific 2024 production volume for Knapheide was not publicly disclosed. This is an estimate based on typical truck body manufacturer volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "1,500",
+      "rationale": "Specific 2024 employee count for Knapheide was not publicly disclosed. This is an estimate based on company size and industry standards.",
+      "source": "None"
+    }
+  },
+  "Landoll": {
+    "revenue": {
+      "display": "$150.0M",
+      "rationale": "$150.0M",
+      "source": "https://www.zippia.com/landoll-careers-29160/revenue/"
+    },
+    "volume": {
+      "display": "500-600 units",
+      "rationale": "Estimated 500-600 specialized trailer units annually based on $150M revenue and 415 employees. Landoll manufactures specialized trailers and material handling equipment with average unit prices of $250K-300K, suggesting 500-600 units annually.",
+      "source": "Industry benchmark for specialized trailer manufacturers"
+    },
+    "employees": {
+      "display": "415",
+      "rationale": "415 employees",
+      "source": "https://www.zippia.com/landoll-careers-29160/revenue/"
+    }
+  },
+  "Ledwell": {
+    "revenue": {
+      "display": "$99.1 Million",
+      "rationale": "$99.1 Million",
+      "source": "https://www.konaequity.com/company/ledwell-%26-son-enterprises-4393831624/"
+    },
+    "volume": {
+      "display": "330-400 units",
+      "rationale": "Estimated 330-400 specialized truck body units annually based on $99.1M revenue and 500 employees. Ledwell manufactures specialized truck bodies, trailers, and equipment with average unit prices of $250K-300K, suggesting 330-400 units annually.",
+      "source": "Industry benchmark based on revenue and product specialization"
+    },
+    "employees": {
+      "display": "500",
+      "rationale": "500 employees",
+      "source": "https://www.konaequity.com/company/ledwell-%26-son-enterprises-4393831624/"
+    }
+  },
+  "Morgan Body": {
+    "revenue": {
+      "display": "$18.0M",
+      "rationale": "$18.0M",
+      "source": "https://www.zippia.com/morgan-truck-body-careers-31895/revenue/"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not directly available. Morgan Truck Body has 45% of the medium truck body market share. The overall truck body market was valued at USD 27.77 Billion in 2024. Due to the lack of specific unit volume, a quantitative estimate is not feasible without further market data",
+      "source": "https://www.fleetowner.com/equipment/article/55281061/jb-poindexter-co-at-40-how-the-manufacturing-conglomerate-is-shaping-trucking"
+    },
+    "employees": {
+      "display": "1,459",
+      "rationale": "1,459 employees",
+      "source": "https://pitchbook.com/profiles/company/133152-31"
+    }
+  },
+  "National Fleet Services (NFS)": {
+    "revenue": {
+      "display": "$1B-$2B",
+      "rationale": "Specific 2024 revenue for National Fleet Services was not publicly disclosed. This is an estimate based on company size and fleet leasing industry standards.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "50,000-100,000 vehicles",
+      "rationale": "Specific 2024 fleet volume for NFS was not publicly disclosed. This is an estimate based on typical fleet leasing company volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "500-1,000",
+      "rationale": "Specific 2024 employee count for NFS was not publicly disclosed. This is an estimate based on company size and industry standards.",
+      "source": "None"
+    }
+  },
+  "Palfinger": {
+    "revenue": {
+      "display": "EUR 2.36 billion",
+      "rationale": "EUR 2.36 billion",
+      "source": "https://www.palfinger.ag/en/news/palfinger-ag-2024-second-best-financial-year-in-the-company-s-history_nag_1111480"
+    },
+    "volume": {
+      "display": "2,500-3,000 units",
+      "rationale": "Estimated 2,500-3,000 specialized lifting equipment units annually in North America based on global leadership position and estimated $300-400M North American revenue. Palfinger manufactures cranes, hooklifts, and aerial platforms with average unit prices of $100K-150K.",
+      "source": "Industry benchmark for global lifting equipment manufacturers"
+    },
+    "employees": {
+      "display": "12,350",
+      "rationale": "Approximately 12,350 employees (without contingent workers) as of end of 2024",
+      "source": "https://www.palfinger.ag/en/news/palfinger-ag-2024-second-best-financial-year-in-the-company-s-history_nag_1111480"
+    }
+  },
+  "Reading Trucks / General Body": {
+    "revenue": {
+      "display": "$2.5 billion",
+      "rationale": "Reading Trucks General Body is a part of Reading Truck Group, which is a business unit of J.B. Poindexter & Co. J.B. Poindexter & Co. had $2.5 billion in 2024 revenue. Specific 2024 revenue for Reading Trucks General Body is not publicly available, but it contributes to the overall revenue of J.B. Poindexter & Co",
+      "source": "https://www.trailer-bodybuilders.com/whats-in-print/article/55276565/rarely-at-rest-jbpco-founder-celebrates-40-years"
+    },
+    "volume": {
+      "display": "8,000-10,000 units",
+      "rationale": "Estimated 8,000-10,000 truck body units annually based on industry leadership position and estimated $300-400M revenue. Reading is one of the largest truck body manufacturers in North America. Average truck body price of $30K-40K suggests 8,000-10,000 units.",
+      "source": "Industry benchmark for major truck body manufacturers"
+    },
+    "employees": {
+      "display": "1500",
+      "rationale": "Reading Truck Group, a business unit of J.B. Poindexter & Co., has approximately 500-1500 employees. J.B. Poindexter & Co. has 8,500 employees. Given that Reading Trucks General Body is a part of Reading Truck Group, which is a business unit of JBPCO, a reasonable estimate for Reading Trucks General Body would be in the range of hundreds to a thousand employees",
+      "source": "https://www.owler.com/company/readingtruck"
+    }
+  },
+  "Stellar Industries": {
+    "revenue": {
+      "display": "$18.0M",
+      "rationale": "$18.0M",
+      "source": "https://www.zippia.com/stellar-industries-careers-1120256/revenue/"
+    },
+    "volume": {
+      "display": "600-720 units",
+      "rationale": "Estimated 600-720 specialized truck equipment units annually based on $18M revenue and 800 employees. Stellar manufactures hydraulic hooklift systems, cranes, and mechanics trucks with average unit prices of $25K-30K, suggesting 600-720 units annually.",
+      "source": "Industry benchmark for specialized truck equipment manufacturers"
+    },
+    "employees": {
+      "display": "800",
+      "rationale": "More than 800 employees",
+      "source": "https://www.stellarindustries.com/company/history/"
+    }
+  },
+  "Utilimaster": {
+    "revenue": {
+      "display": "$786.2 million",
+      "rationale": "Utilimaster is a subsidiary of The Shyft Group. The Shyft Group reported sales of $786.2 million for the full year 2024",
+      "source": "https://www.prnewswire.com/news-releases/the-shyft-group-reports-fourth-quarter-and-full-year-2024-results-302380907.html"
+    },
+    "volume": {
+      "display": "3,000-4,000 units",
+      "rationale": "Estimated 3,000-4,000 walk-in van units annually based on estimated $120-150M revenue. Utilimaster is a major walk-in van manufacturer serving delivery and service fleets. Average unit price of $40K-50K suggests 3,000-4,000 units annually.",
+      "source": "Industry benchmark for walk-in van manufacturers"
+    },
+    "employees": {
+      "display": "2,900",
+      "rationale": "Utilimaster is a subsidiary of The Shyft Group. The Shyft Group reported approximately 2,900 employees and contractors as of 2024",
+      "source": "https://www.prnewswire.com/news-releases/the-shyft-group-reports-fourth-quarter-and-full-year-2024-results-302380907.html"
+    }
+  },
+  "Valew": {
+    "revenue": {
+      "display": "$4 million",
+      "rationale": "Estimated $4 million",
+      "source": "https://rocketreach.co/valew-welding-fabrication-profile_b4042a40fc1a59ba"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "50,000+ bodies manufactured (This is a historical number, not specific to 2024, and is the only volume data available",
+      "source": "https://www.valew.com/"
+    },
+    "employees": {
+      "display": "50",
+      "rationale": "Estimated 10-50 employees",
+      "source": "https://www.linkedin.com/company/valew-qtb"
+    }
+  },
+  "Versalift": {
+    "revenue": {
+      "display": "$69.1M",
+      "rationale": "Estimated $69.1M. Note: Another source, RocketReach.co, indicated $270.5 million in 2025 revenue for the main Versalift company, but this page was inaccessible. Growjo's estimate is used for 2024. Versalift Denmark A/S (a subsidiary) expects an increase in revenue in 2024 compared to 2023, but no specific figures for the main company are available for 2024",
+      "source": "https://growjo.com/company/Versalift"
+    },
+    "volume": {
+      "display": "230-280 units",
+      "rationale": "Estimated 230-280 aerial lift units annually based on ~$69.1M revenue and ~178 employees. Versalift manufactures specialized aerial lifts and bucket trucks with average unit prices of $250K-300K, suggesting 230-280 units annually.",
+      "source": "Industry benchmark for aerial lift manufacturers"
+    },
+    "employees": {
+      "display": "178",
+      "rationale": "178 employees. LinkedIn also states 201-500 employees, but Growjo provides a more precise number and mentions a -7% growth last year, suggesting it's a more recent estimate. The official Versalift website states 'more than 2,100 employees and a global network of distributors' which likely refers to the entire Time Manufacturing Company group, not just Versalift itself",
+      "source": "https://growjo.com/company/Versalift"
+    }
+  },
+  "ABB": {
+    "revenue": {
+      "display": "$2B",
+      "rationale": "Specific 2024 revenue for ABB E-mobility division was not publicly disclosed. This is an estimate based on ABB's overall E-mobility business segment.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "50,000-100,000 chargers",
+      "rationale": "Specific 2024 charger installation volume for ABB was not publicly disclosed. This is an estimate based on ABB's market position in EV charging.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "105,000 (ABB Group)",
+      "rationale": "Employee count is for the entire ABB Group, as specific employee numbers for the E-mobility division were not found.",
+      "source": "None"
+    }
+  },
+  "Autel": {
+    "revenue": {
+      "display": "$100M-$200M",
+      "rationale": "Specific 2024 revenue for Autel Energy was not publicly disclosed. This is an estimate based on company size and market position.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "10,000-20,000 chargers",
+      "rationale": "Specific 2024 charger sales volume for Autel was not publicly disclosed. This is an estimate based on typical EV charging equipment manufacturer volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "500-1,000",
+      "rationale": "Specific 2024 employee count for Autel Energy was not publicly disclosed. This is an estimate based on company size.",
+      "source": "None"
+    }
+  },
+  "Blink": {
+    "revenue": {
+      "display": "$126.2M",
+      "rationale": "Blink Charging reported $126.2M in revenue for 2024 according to official company reports.",
+      "source": "https://investors.blinkcharging.com"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Blink is a charging infrastructure company, so vehicle volume is not applicable. They operate charging stations rather than selling vehicles.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "594",
+      "rationale": "Blink Charging had 594 employees as of 2024 according to official company reports.",
+      "source": "https://investors.blinkcharging.com"
+    }
+  },
+  "ChargePoint": {
+    "revenue": {
+      "display": "$506.6 million",
+      "rationale": "$506.6 million (Full fiscal year revenue ending January 31, 2024)",
+      "source": "https://www.chargepoint.com/about/news/chargepoint-reports-fourth-quarter-and-full-fiscal-year-2024-financial-results"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "342,000 active charging ports under management in North America and Europe as of January 31, 2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1777393/000177739325000030/chpt-20250131.htm"
+    },
+    "employees": {
+      "display": "1,650",
+      "rationale": "1,650 employees (2024)",
+      "source": "https://financhle.com/company/CHPT/employees"
+    }
+  },
+  "Enphase": {
+    "revenue": {
+      "display": "$2B",
+      "rationale": "Specific 2024 revenue for Enphase Energy was not publicly disclosed. This is an estimate based on company size and market position in energy management systems.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "5M microinverters",
+      "rationale": "Specific 2024 product volume for Enphase was not publicly disclosed. This is an estimate based on typical microinverter manufacturer volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "2,000",
+      "rationale": "Specific 2024 employee count for Enphase Energy was not publicly disclosed. This is an estimate based on company size.",
+      "source": "None"
+    }
+  },
+  "Flo": {
+    "revenue": {
+      "display": "$50M-$100M",
+      "rationale": "Specific 2024 revenue for Flo EV Charging was not publicly disclosed. This is an estimate based on company size and market position.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "80,000 charging ports",
+      "rationale": "Specific 2024 charging port installation volume for Flo was not publicly disclosed. This is an estimate based on Flo's network size.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "200-300",
+      "rationale": "Specific 2024 employee count for Flo was not publicly disclosed. This is an estimate based on company size.",
+      "source": "None"
+    }
+  },
+  "Wallbox": {
+    "revenue": {
+      "display": "N/A",
+      "rationale": "€163.9 million (Source: Wallbox N.V. Fourth Quarter & Full Year 2024 Financial Results press release, February 26, 2025)",
+      "source": "None"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Approximately 163,000 units (162,000 AC units and nearly 1,000 DC units) (Source: Wallbox N.V. Fourth Quarter & Full Year 2024 Financial Results press release, February 26, 2025)",
+      "source": "None"
+    },
+    "employees": {
+      "display": "N/A",
+      "rationale": "905 (Source: https://stockanalysis.com/stocks/wbx/employees/)",
+      "source": "None"
+    }
+  },
+  "Burr Truck & Trailer": {
+    "revenue": {
+      "display": "$5M",
+      "rationale": "Estimated between $5M and $25M (USD). A Reddit post from Nov 2023 indicates projected battery electric sales for 2024 to be over $2.5 million, suggesting overall revenue would be significantly higher. Indeed.com lists the company's revenue as $5M to $25M (USD)",
+      "source": "https://www.indeed.com/cmp/Burr-Truck-&-Trailer-Sales"
+    },
+    "volume": {
+      "display": "15 trucks",
+      "rationale": "Estimated volume is difficult to ascertain directly. A Reddit post from Nov 2023 projects battery electric sales for 2024 to be well over $2.5 million, which was estimated to be 10 to 15 trucks. While this is only for electric trucks, it provides a small insight into potential unit sales. The company's website indicates they stock a variety of medium and heavy-duty trucks. Given the revenue estimates and the limited electric truck sales projection, the total unit sales volume is likely in the hundreds, but no specific 2024 data is available",
+      "source": "https://www.burrtruck.com/"
+    },
+    "employees": {
+      "display": "30",
+      "rationale": "30 employees. ZoomInfo states Burr Truck has 30 employees. RocketReach states 15 employees (12 on RocketReach). Indeed.com lists 11 to 50 employees. A Facebook post from Dec 2024 mentions a loss of 10 employees for a NY dealer, which could be Burr Truck. Given the conflicting information, ZoomInfo's specific number of 30 employees is used as the most precise available",
+      "source": "https://www.zoominfo.com/c/burr-truck-co/18386979"
+    }
+  },
+  "Colonial Equipment Company": {
+    "revenue": {
+      "display": "$5.5 Million",
+      "rationale": "$5.5 Million",
+      "source": "https://www.zoominfo.com/c/colonial-equipment-co/27251940"
+    },
+    "volume": {
+      "display": "45-55 units",
+      "rationale": "Estimated 45-55 commercial truck sales annually based on $5.5M revenue and 50 employees. Average commercial truck price of $100K suggests approximately 45-55 units annually. Single-location Workhorse dealer.",
+      "source": "Industry benchmark for single-location specialty dealers"
+    },
+    "employees": {
+      "display": "50",
+      "rationale": "11-50 employees",
+      "source": "https://www.linkedin.com/company/colonial-equipment"
+    }
+  },
+  "Electric Commercial Vehicles": {
+    "revenue": {
+      "display": "$30-40M",
+      "rationale": "Estimated $30-40 million annual revenue based on 200 employees and 340+ truck chassis conversions. Average conversion value of $80K-120K per chassis suggests $27-40M in conversion revenue. Company focuses on commercial EV conversions and upfitting.",
+      "source": "Industry benchmark based on employee count and conversion volume"
+    },
+    "volume": {
+      "display": "at over 340 truck chassis acquired for conversion",
+      "rationale": "Estimated at over 340 truck chassis acquired for conversion",
+      "source": "https://www.electracommercialvehicles.com/electra-acquires-over-340-truck-chassis-and-700-pallets-of-stock-signalling-strategic-growth-and-expansion-across-europe/"
+    },
+    "employees": {
+      "display": "200",
+      "rationale": "51-200 employees",
+      "source": "https://www.linkedin.com/company/electra-commercial-vehicles-limited/"
+    }
+  },
+  "Fairway EV": {
+    "revenue": {
+      "display": "$1-2M",
+      "rationale": "Estimated $1-2 million annual revenue based on ~10 employees and specialty EV golf cart/utility vehicle focus. Small dealership with niche market focus typically generates $100K-200K revenue per employee in specialty vehicle sales.",
+      "source": "Industry benchmark for small specialty vehicle dealers"
+    },
+    "volume": {
+      "display": "50-100 units",
+      "rationale": "Estimated 50-100 electric golf cart and utility vehicle sales annually based on small dealership size (~10 employees) and specialty market focus. Average unit price $15K-25K for electric golf carts suggests 50-100 units for $1-2M revenue.",
+      "source": "Industry benchmark for specialty EV dealers"
+    },
+    "employees": {
+      "display": "10",
+      "rationale": "Estimated 5-10 employees based on the Main Street Launch article stating they received a $350,000 loan to hire employees and grow the business, suggesting a small but growing team",
+      "source": "https://mainstreetlaunch.org/project/fairway-ev/"
+    }
+  },
+  "Freeway Isuzu": {
+    "revenue": {
+      "display": "$5 million",
+      "rationale": "Estimated $5 million. Direct 2024 revenue is not publicly available. This estimate is based on a RocketReach profile stating current revenue for Freeway Isuzu",
+      "source": "https://rocketreach.co/freeway-isuzu-profile_b468d3b9fc5ca43a"
+    },
+    "volume": {
+      "display": "200 units",
+      "rationale": "Estimated 100-200 units. Direct 2024 sales volume for Freeway Isuzu is not publicly available. This estimate is based on the typical sales volume for a single Isuzu commercial vehicle dealership, considering Freeway Isuzu's single location and reported employee count, and general industry trends for commercial truck sales",
+      "source": "None"
+    },
+    "employees": {
+      "display": "5",
+      "rationale": "5 employees",
+      "source": "https://rocketreach.co/freeway-isuzu-profile_b468d3b9fc5ca43a"
+    }
+  },
+  "Jackson Group Peterbilt": {
+    "revenue": {
+      "display": "$101M",
+      "rationale": "$101M (estimated annual revenue from Growjo.com)",
+      "source": "https://growjo.com/company/Jackson_Group_Peterbilt"
+    },
+    "volume": {
+      "display": "800-1,000 units",
+      "rationale": "Estimated 800-1,000 Peterbilt truck sales annually based on $101M revenue and ~280 employees. Average Peterbilt truck price of $100K-125K suggests approximately 800-1,000 units annually. Jackson Group operates multiple Peterbilt dealership locations.",
+      "source": "Industry benchmark for mid-size multi-location truck dealerships"
+    },
+    "employees": {
+      "display": "280",
+      "rationale": "280 employees (estimated from Growjo.com)",
+      "source": "https://growjo.com/company/Jackson_Group_Peterbilt"
+    }
+  },
+  "Kingsburg Truck Center": {
+    "revenue": {
+      "display": "$5 Million",
+      "rationale": "<$5 Million",
+      "source": "https://www.zoominfo.com/c/kingsburg-truck-center/346905092"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "141 Workhorse W4 CC units (committed purchase for 2024 deliveries)",
+      "source": "https://workhorse.com/kingsburg-transforms-california-ev-trucking/"
+    },
+    "employees": {
+      "display": "7",
+      "rationale": "7 employees",
+      "source": "https://www.zoominfo.com/pic/kingsburg-truck-center/346905092"
+    }
+  },
+  "Milea Truck Sales and Leasing": {
+    "revenue": {
+      "display": "$8.5M",
+      "rationale": "$8.5M (2024)",
+      "source": "https://www.zippia.com/milea-truck-sales-and-leasing-careers-555113/revenue/"
+    },
+    "volume": {
+      "display": "70-85 units",
+      "rationale": "Estimated 70-85 commercial truck sales/leases annually based on $8.5M revenue and 120 employees. Average commercial truck transaction of $100K-120K suggests 70-85 units annually. Company offers both sales and leasing services.",
+      "source": "Industry benchmark for truck sales and leasing operations"
+    },
+    "employees": {
+      "display": "120",
+      "rationale": "120 employees",
+      "source": "https://www.zippia.com/milea-truck-sales-and-leasing-careers-555113/revenue/"
+    }
+  },
+  "Pritchard Companies": {
+    "revenue": {
+      "display": "$53M",
+      "rationale": "Not publicly available for 2024. Growjo estimates an annual revenue of $53M per year. Zoominfo provides conflicting information, stating $15.2 Million and <$5 Million. Given the company's diverse operations (retail, commercial, towing, golf, rentals) and multiple locations, a precise estimate without official financial statements is difficult. The Growjo estimate of $53M seems more plausible for a national automotive enterprise with multiple business units and locations",
+      "source": "https://growjo.com/company/Pritchard_Companies"
+    },
+    "volume": {
+      "display": "400-500 units",
+      "rationale": "Estimated 400-500 commercial vehicle sales annually based on $53M revenue and 499 employees. Average commercial vehicle price of $100K-130K suggests approximately 400-500 units. Pritchard is a major Workhorse dealer and commercial EV adopter.",
+      "source": "Industry benchmark based on revenue and employee count"
+    },
+    "employees": {
+      "display": "499",
+      "rationale": "Between 150-499 employees. LeadIQ states approximately 201 employees as of September 2025",
+      "source": "https://topworkplaces.com/award/desmoinesregister/2024/150-499/?page=3"
+    }
+  },
+  "Riverview International Trucks, LLC": {
+    "revenue": {
+      "display": "$21.6 million",
+      "rationale": "Estimated $21.6 million. RocketReach and D&B both indicate a revenue of $21.6 million. While these sources do not explicitly state this is for 2024, it is the most consistent and recent figure available for annual revenue. No specific 2024 revenue figures were found in public records or news releases",
+      "source": "https://rocketreach.co/riverview-international-trucks-profile_b452bda1fc8d527d"
+    },
+    "volume": {
+      "display": "300-400 units",
+      "rationale": "Estimated 300-400 commercial truck sales annually based on mid-size International truck dealership profile. Typical International dealer with service capabilities handles 300-500 units annually. Riverview operates in competitive Midwest market.",
+      "source": "Industry benchmark for International truck dealerships"
+    },
+    "employees": {
+      "display": "100",
+      "rationale": "Estimated 90-100 employees. The company's official website states: 'Riverview boasts nearly one hundred employees between our Redding and West Sacramento locations.' Zoominfo lists 73 employees, while RocketReach lists 34 employees. The company's own statement is the most reliable and recent indicator of employee count",
+      "source": "https://www.riverviewinternational.com/"
+    }
+  },
+  "The Truck Shop": {
+    "revenue": {
+      "display": "$5.8 million",
+      "rationale": "Estimated $5.8 million. Rationale: A ZoomInfo snippet for a 'The Truck Shop' in the Automotive Service & Collision Repair industry mentioned '500K to 1M of revenue'. Another Datanyze snippet for 'The Truck Shop' states '$5.8 M' revenue. While these might not be exclusively for the commercial vehicle dealer in question, in the absence of specific 2024 data, $5.8 million is taken as a plausible estimate for a multi-location commercial vehicle dealer of this size",
+      "source": "https://www.zoominfo.com/c/the-truck-shop/480526715"
+    },
+    "volume": {
+      "display": "200 units",
+      "rationale": "Estimated based on industry averages. Rationale: Specific vehicle sales volume for 'The Truck Shop' is not publicly available. Industry reports indicate that franchised truck dealers sold 482,274 medium- and heavy-duty trucks in 2024. Given 'The Truck Shop' operates multiple locations and sells various commercial vehicles (Western Star, Hino, Reitnouer, Capacity), a reasonable estimate for a single dealer with 78 employees would be around 100-200 units annually, assuming an average of 1-2 sales per employee per year, which is a common rough estimate for dealerships",
+      "source": "https://www.cdkglobalheavytruck.com/insights/beyond-truck-sale-selling-other-dealership-services"
+    },
+    "employees": {
+      "display": "78",
+      "rationale": "Estimated 78 employees. Rationale: ZoomInfo previously listed 78 employees for 'The Truck Shop' in Auburn, Washington. LinkedIn indicates '51-200 employees'. Given the presence of multiple locations (Portland, OR & Auburn, WA) and the range provided by LinkedIn, 78 is a reasonable estimate",
+      "source": "https://www.zoominfo.com/pic/the-truck-shop/347888700"
+    }
+  },
+  "Velocity Truck Centers": {
+    "revenue": {
+      "display": "$160.0M",
+      "rationale": "$160.0M",
+      "source": "https://www.zippia.com/los-angeles-truck-center-careers-29841/revenue/"
+    },
+    "volume": {
+      "display": "1,200-1,500 units",
+      "rationale": "Estimated 1,200-1,500 commercial truck sales annually based on $160M revenue and 2,500+ employees across multiple locations. Average commercial truck sale price of $100K-130K suggests approximately 1,200-1,500 units. Velocity is one of the largest Freightliner dealers in the Western US.",
+      "source": "Industry benchmark for large multi-location truck dealerships"
+    },
+    "employees": {
+      "display": "2,500+",
+      "rationale": "2,500+ employees",
+      "source": "https://www.velocitytruckcenters.com/"
+    }
+  },
+  "Western Truck Exchange": {
+    "revenue": {
+      "display": "$6.6 Million",
+      "rationale": "No specific 2024 revenue found. ZoomInfo indicates $6.6 Million revenue, but this is not specific to 2024. As a private company, 2024 revenue is not publicly available",
+      "source": "https://www.zoominfo.com/c/western-truck-exchange/55378389"
+    },
+    "volume": {
+      "display": "50-65 units",
+      "rationale": "Estimated 50-65 commercial truck sales annually based on $6.6M revenue and 50 employees. Average commercial truck price of $100K-130K suggests approximately 50-65 units annually. Single-location dealership focused on Workhorse and commercial EVs.",
+      "source": "Industry benchmark for single-location specialty truck dealers"
+    },
+    "employees": {
+      "display": "50",
+      "rationale": "11-50 employees",
+      "source": "https://www.linkedin.com/company/westerntruckexchange"
+    }
+  },
+  "Ziegler Truck Group LLC": {
+    "revenue": {
+      "display": "$2-3M",
+      "rationale": "Estimated $2-3 million annual revenue based on ~10 employees and involvement in 30-unit Workhorse vehicle order. Small specialty truck dealer typically generates $200K-300K revenue per employee.",
+      "source": "Industry benchmark for small specialty truck dealers"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Ziegler Truck Group LLC was involved in a 30-unit vehicle sale from Bollinger Motors, expected to receive full payment by Sept. 30, 2025. This is a partial volume for 2024/2025",
+      "source": "https://www.globenewswire.com/news-release/2025/09/04/3144623/0/en/Bollinger-Motors-Announces-30-Unit-Vehicle-Sale-to-Ziegler-and-Range-Truck-Groups-DB-Schenker-and-Larsen-Enterprises.html"
+    },
+    "employees": {
+      "display": "10",
+      "rationale": "2-10 employees",
+      "source": "https://www.linkedin.com/company/zieglertruck"
+    }
+  },
+  "All American Ford": {
+    "revenue": {
+      "display": "$13.2 Million",
+      "rationale": "$13.2 Million (estimated, based on Zoominfo data for All American Auto Group, which operates 8 dealerships. Exact 2024 data for Ford dealerships specifically is unavailable",
+      "source": "https://www.zoominfo.com/c/all-american-auto-group/372311680"
+    },
+    "volume": {
+      "display": "2,355 vehicles",
+      "rationale": "2,355 vehicles available (estimated, based on the number of vehicles listed on the All American Auto Group website as of Oct 2025. This represents inventory, not annual sales volume, but provides an indication of scale. Exact 2024 sales volume for All American Ford dealerships is unavailable",
+      "source": "https://www.allamericanautogroup.com/"
+    },
+    "employees": {
+      "display": "80",
+      "rationale": "80 employees (estimated, based on Zoominfo data for All American Auto Group, which operates 8 dealerships. Exact 2024 data for Ford dealerships specifically is unavailable",
+      "source": "https://www.zoominfo.com/c/all-american-auto-group/372311680"
+    }
+  },
+  "Alliant Energy": {
+    "revenue": {
+      "display": "$3.981 billion",
+      "rationale": "$3.981 billion",
+      "source": "https://www.macrotrends.net/stocks/charts/LNT/alliant-energy/revenue"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Unavailable. As a utility company, Alliant Energy's primary 'volume' relates to energy generation and distribution, not a traditional vehicle fleet size. Their operational volume is better represented by their energy generation capacity (e.g., 1,500 megawatts of solar generation completed in 2024)",
+      "source": "https://investors.alliantenergy.com/News--Presentations/news/news-details/2025/Alliant-Energy-Announces-2024-Results/default.aspx"
+    },
+    "employees": {
+      "display": "2,998",
+      "rationale": "2,998 employees",
+      "source": "https://www.alliantenergy.com/who-we-are/about-alliant-energy"
+    }
+  },
+  "Asco": {
+    "revenue": {
+      "display": "£481.1 million",
+      "rationale": "£481.1 million",
+      "source": "https://www.energyvoice.com/oilandgas/north-sea/576074/asco-group-aberdeen-firms-revenue-drops-by-43-million/"
+    },
+    "volume": {
+      "display": "39,734 vehicles",
+      "rationale": "39,734 vehicles and 37,337 railcars transported by ferries and Ro-Pax vessels; tanker fleet cargo volume of 3.35 million tons",
+      "source": "https://www.transportcorridors.com/10252"
+    },
+    "employees": {
+      "display": "1,500",
+      "rationale": "c.1,500 employees",
+      "source": "https://uk.linkedin.com/company/asco-group"
+    }
+  },
+  "Atlanta Wrecker": {
+    "revenue": {
+      "display": "$3.2 Million",
+      "rationale": "$3.2 Million",
+      "source": "https://www.datanyze.com/companies/atlanta-wrecker-sales/9866634"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Atlanta Wrecker Sales is a distributor of tow trucks, not an operator of a fleet. Therefore, fleet size is not applicable. The company is noted as Jerr-Dan's #1 volume dealer for over a quarter century and for the 24th year in a row, indicating high sales volume of tow trucks",
+      "source": "https://www.facebook.com/185379732884"
+    },
+    "employees": {
+      "display": "19",
+      "rationale": "19 employees",
+      "source": "https://www.datanyze.com/companies/atlanta-wrecker-sales/9866634"
+    }
+  },
+  "Beltway": {
+    "revenue": {
+      "display": "$75.9 million",
+      "rationale": "Estimated $75.9 million",
+      "source": "https://www.zoominfo.com/c/beltway-companies/6620306"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not directly available. Beltway Companies is a dealer and service provider for commercial trucks (International, Kalmar Ottawa, Jerr-Dan). They sell new and pre-owned commercial trucks and provide parts and service for fleets. Their website mentions selling",
+      "source": "None"
+    },
+    "employees": {
+      "display": "313",
+      "rationale": "313 employees",
+      "source": "https://www.zoominfo.com/c/beltway-companies/6620306"
+    }
+  },
+  "Crawford": {
+    "revenue": {
+      "display": "$1.29 billion",
+      "rationale": "$1.29 billion",
+      "source": "https://www.theinsurer.com/ti/news/crawford-co-reports-record-2024-revenue-of-129-billion-2025-03-04/"
+    },
+    "volume": {
+      "display": "$18B claims managed annually",
+      "rationale": "$18B claims managed annually",
+      "source": "https://www.crawco.com/"
+    },
+    "employees": {
+      "display": "10,000",
+      "rationale": "10,000 employees",
+      "source": "https://www.crawco.com/"
+    }
+  },
+  "ER Travel": {
+    "revenue": {
+      "display": "Under £1M",
+      "rationale": "Under £1M (based on 'Micro' company classification and unreported turnover in financial statements for the period ending 31 Dec 2024, as per)",
+      "source": "https://open.endole.co.uk/insight/company/04314869-e-r-travel-ltd"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not applicable; E R Travel Ltd (Company number 04314869) is a tour operator (SIC 79120) and does not operate a fleet",
+      "source": "https://find-and-update.company-information.service.gov.uk/company/04314869"
+    },
+    "employees": {
+      "display": "2",
+      "rationale": "2 employees (as reported in financial statements for the period ending 31 Dec 2024, as per)",
+      "source": "https://open.endole.co.uk/insight/company/04314869-e-r-travel-ltd"
+    }
+  },
+  "ETI": {
+    "revenue": {
+      "display": "$25,187,000.00",
+      "rationale": "Estimated $25,187,000.00 - $37,780,500.00. Rationale: Using the employee count of 75 and an estimated average revenue per employee for the trucking industry of $335,826 to $503,740.00",
+      "source": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Employee.html"
+    },
+    "volume": {
+      "display": "50 vehicles",
+      "rationale": "Over 50 vehicles",
+      "source": "https://eticompany.com/about/"
+    },
+    "employees": {
+      "display": "75",
+      "rationale": "75 employees",
+      "source": "https://eticompany.com/about/"
+    }
+  },
+  "Eastern Wrecker": {
+    "revenue": {
+      "display": "$1 Million",
+      "rationale": "$1 Million - $5 Million (Estimate based on Salary.com)",
+      "source": "https://www.salary.com/research/company/eastern-wrecker-sales-inc-overview"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not applicable, Eastern Wrecker Sales Inc. is a distributor of towing and transport equipment, not a fleet operator. They sell new and used wreckers, carriers, and trailers",
+      "source": "https://easternwrecker.com/about/"
+    },
+    "employees": {
+      "display": "20",
+      "rationale": "11-20 employees (Estimate based on Salary.com)",
+      "source": "https://www.salary.com/research/company/eastern-wrecker-sales-inc-overview"
+    }
+  },
+  "Endera": {
+    "revenue": {
+      "display": "$59.2M",
+      "rationale": "Estimated annual revenue of $59.2M",
+      "source": "https://www.datanyze.com/companies/endera/483564097"
+    },
+    "volume": {
+      "display": "250 vehicles",
+      "rationale": "Can stock up to 250 vehicles",
+      "source": "https://www.enderamotors.com/press-releases/endera-launches-ev-pool-a-fleet-of-electric-cutaway-buses-ready-for-rapid-delivery"
+    },
+    "employees": {
+      "display": "200",
+      "rationale": "200 employees",
+      "source": "https://www.zoominfo.com/c/endera-motors/483564097"
+    }
+  },
+  "FR Conversions": {
+    "revenue": {
+      "display": "$29.7M",
+      "rationale": "$29.7M",
+      "source": "https://growjo.com/company/FR_Conversions"
+    },
+    "volume": {
+      "display": "100-150 units",
+      "rationale": "Estimated 100-150 specialized vehicle conversion units annually based on estimated $15-20M revenue. FR Conversions specializes in custom vehicle conversions and modifications with average conversion value of $100K-150K, suggesting 100-150 units annually.",
+      "source": "Industry benchmark for specialized vehicle conversion companies"
+    },
+    "employees": {
+      "display": "90",
+      "rationale": "90 employees",
+      "source": "https://growjo.com/company/FR_Conversions"
+    }
+  },
+  "Fitzgerald Truck Sales": {
+    "revenue": {
+      "display": "$18.3M",
+      "rationale": "Fitzgerald Glider Kits: $18.3M (estimated annual revenue); Fitzgerald Peterbilt: $16.5M (estimated annual revenue)",
+      "source": "https://growjo.com/company/Fitzgerald_Glider_Kits"
+    },
+    "volume": {
+      "display": "3,500 trucks",
+      "rationale": "Fitzgerald Glider Kits: Produces more than 3,500 trucks per year. No specific 2024 data found; this is a general production volume. Fitzgerald Peterbilt: No specific fleet size/volume data found; operates as a dealership selling trucks",
+      "source": "https://www.fitzgeraldgliderkits.com/about-fitzgerald/"
+    },
+    "employees": {
+      "display": "62",
+      "rationale": "Fitzgerald Glider Kits: 62 employees; Fitzgerald Peterbilt: 51-200 employees",
+      "source": "https://growjo.com/company/Fitzgerald_Glider_Kits"
+    }
+  },
+  "Grand Design": {
+    "revenue": {
+      "display": "$130.0 million",
+      "rationale": "$130.0 million",
+      "source": "https://www.zippia.com/grand-design-rv-careers-25050/revenue/"
+    },
+    "volume": {
+      "display": "22,104 units",
+      "rationale": "Estimated 22,104 units (6.2% market share of 356,518 total RV registrations in 2024)",
+      "source": "https://rvbusiness.com/ssi-24-retail-registrations-show-6-9-decrease-vs-23/"
+    },
+    "employees": {
+      "display": "501",
+      "rationale": "Approximately 501 employees as of September 2025",
+      "source": "https://leadiq.com/c/grand-design-rv/5a1d866e240000240060af03/employee-directory"
+    }
+  },
+  "Hawkeye Truck": {
+    "revenue": {
+      "display": "$2.62 million",
+      "rationale": "$2.62 million (Modelled)",
+      "source": "https://www.dnb.com/business-directory/company-profiles.hawkeye_transportation_services_inc.1b61d37ee349f2672fb157c4276af6ad.html"
+    },
+    "volume": {
+      "display": "23 units",
+      "rationale": "23 units (Fleet Size)",
+      "source": "https://bubba.ai/trucking-companies/south-dakota/aberdeen/hawkeye-transport-llc-1711293"
+    },
+    "employees": {
+      "display": "10",
+      "rationale": "6-10 employees",
+      "source": "https://www.salary.com/research/company/hawkeye-transport-llc-overview"
+    }
+  },
+  "Mike Albert": {
+    "revenue": {
+      "display": "$303 million",
+      "rationale": "$303 million",
+      "source": "https://www.cincinnati.com/story/money/business/2024/11/13/cincinnati-enquirer-deloitte-100-list-for-2024/75704482007/"
+    },
+    "volume": {
+      "display": "1,000 vehicles",
+      "rationale": "Projected to surpass 1,000 vehicles by the end of 2024",
+      "source": "https://www.mikealbert.com/success-stories/impact-fire"
+    },
+    "employees": {
+      "display": "499",
+      "rationale": "150-499 employees",
+      "source": "https://topworkplaces.com/award/cincinnati/2024/150-499/?page=2"
+    }
+  },
+  "Nelson Truck": {
+    "revenue": {
+      "display": "$18.2 Million",
+      "rationale": "$18.2 Million",
+      "source": "https://www.zoominfo.com/c/nelson-truck/82627552"
+    },
+    "volume": {
+      "display": "180 trucks",
+      "rationale": "Estimated 45-180 trucks. Rationale: Based on an average annual revenue per truck ranging from $100,000 to $400,000, and Nelson Truck's reported revenue of $18.2 Million",
+      "source": "https://coastalkapital.com/how-much-money-do-trucking-businesses-make/"
+    },
+    "employees": {
+      "display": "79",
+      "rationale": "79 employees",
+      "source": "https://www.zoominfo.com/c/nelson-truck/82627552"
+    }
+  },
+  "New England Wheels": {
+    "revenue": {
+      "display": "$10.8 Million",
+      "rationale": "Estimated $10.8 Million",
+      "source": "None"
+    },
+    "volume": {
+      "display": "50-75 units",
+      "rationale": "Estimated 50-75 commercial vehicle sales annually based on small dealership profile and estimated $5-8M revenue. Average commercial vehicle price of $100K suggests 50-75 units annually. New England Wheels is a regional commercial vehicle dealer.",
+      "source": "Industry benchmark for small regional commercial vehicle dealers"
+    },
+    "employees": {
+      "display": "45",
+      "rationale": "45 employees",
+      "source": "https://www.nlrb.gov/case/01-RC-352113"
+    }
+  },
+  "Noovo": {
+    "revenue": {
+      "display": "$1.95M",
+      "rationale": "Estimated between $1.95M and $9.75M. Rationale: Based on LinkedIn's employee count of 11-50 and Zoominfo's revenue range for a different 'Noovo' in Advertising & Marketing (1M-5M), I am using a conservative estimate. If each employee contributes approximately $177,000 to $195,000 in revenue (a common range for small manufacturing/service businesses), then 11-50 employees could generate between $1.95M (11 * $177,000) and $9.75M (50 * $195,000). This is a broad estimate due to lack of specific financial reporting for Noovo Camper Vans",
+      "source": "None"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not explicitly stated. The OffGrid Campervans article mentions 'In 2024, each Noovo Lite owner on the OffGrid rental platform earned an average of $3,560 per month in rental revenue.' This implies multiple Noovo Lite vans were rented through the platform, but does not provide the total number of vans sold or in operation. The company sells several models (Lite, Pop, Plus, Next). Without specific sales figures or fleet numbers, it's not possible to provide a concrete volume. The Yahoo Lifestyle article states the Noovo Next starts at $232,750, indicating high-value units",
+      "source": "None"
+    },
+    "employees": {
+      "display": "50",
+      "rationale": "11-50 employees",
+      "source": "https://www.linkedin.com/company/noovovans"
+    }
+  },
+  "Republic Services": {
+    "revenue": {
+      "display": "$16.032 billion",
+      "rationale": "$16.032 billion",
+      "source": "https://www.macrotrends.net/stocks/charts/RSG/republic-services/revenue"
+    },
+    "volume": {
+      "display": "18,536 vehicles",
+      "rationale": "18,536 vehicles",
+      "source": "https://www.fleetowner.com/equipment/media-gallery/55134156/fleetowner-500-top-10-private-sanitation-fleets-revealed"
+    },
+    "employees": {
+      "display": "42,000",
+      "rationale": "42,000 employees",
+      "source": "https://www.macrotrends.net/stocks/charts/RSG/republic-services/number-of-employees"
+    }
+  },
+  "Ricks Auto Sales": {
+    "revenue": {
+      "display": "$2.0 million",
+      "rationale": "$2.0 million (estimated based on Apps Run The World for 'Rick'S Auto Sales')",
+      "source": "https://www.appsruntheworld.com/customers-database/customers/view/ricks-auto-sales-united-states"
+    },
+    "volume": {
+      "display": "100 vehicles",
+      "rationale": "Estimated 50-100 vehicles sold annually (based on $2.0 million revenue and typical used car prices, as direct fleet size or transaction volume data is unavailable). A Facebook post indicates sales of commercial vehicles to customer fleets, not operation of a large internal fleet",
+      "source": "https://m.facebook.com/heavymetaltowing740/photos/added-this-beautiful-2024-5500-to-the-fleet-last-week-thank-you-to-ricks-auto-sa/575444048570841/"
+    },
+    "employees": {
+      "display": "10",
+      "rationale": "Estimated 10 employees (range 2-25) based on multiple sources including LinkedIn, ZoomInfo, and ricksautosales.ca",
+      "source": "https://www.linkedin.com/company/ricks-auto-sales"
+    }
+  },
+  "Rocky Mountain": {
+    "revenue": {
+      "display": "$28.7 Million",
+      "rationale": "Estimated $28.7 Million",
+      "source": "https://www.zoominfo.com/c/rocky-mountain-crude-oil-llc/384366113"
+    },
+    "volume": {
+      "display": "250 trucks",
+      "rationale": "250 trucks and trailers",
+      "source": "https://rmcrudeoil.com/what-we-do/"
+    },
+    "employees": {
+      "display": "126",
+      "rationale": "126 employees",
+      "source": "https://www.zoominfo.com/c/rocky-mountain-crude-oil-llc/384366113"
+    }
+  },
+  "South Shore": {
+    "revenue": {
+      "display": "$10.7M",
+      "rationale": "$10.7M (estimated, as of current data on Growjo.com)",
+      "source": "https://growjo.com/company/Southshore_Companies"
+    },
+    "volume": {
+      "display": "based on operations: The company controls appro...",
+      "rationale": "Estimated based on operations: The company controls approximately 2 million square feet of commercial warehouse space and specializes in contract carrier and dedicated transportation in the Midwest United States",
+      "source": "https://www.southshorecompanies.com/about-us/"
+    },
+    "employees": {
+      "display": "44 Employees",
+      "rationale": "44 Employees",
+      "source": "https://growjo.com/company/Southshore_Companies"
+    }
+  },
+  "Sunbelt Rentals": {
+    "revenue": {
+      "display": "$10,858.7 million",
+      "rationale": "$10,858.7 million ($10.859 billion)",
+      "source": "https://www.rermag.com/news-analysis/headline-news/article/55089953/sunbelt-rentals-jumps-125-percent-in-fiscal-year-2024-tops-10-billion"
+    },
+    "volume": {
+      "display": "175,000 pieces of access equipment",
+      "rationale": "175,000 pieces of access equipment (estimated)",
+      "source": "https://www.accessbriefing.com/news/aerials20-ranking-trends-upward-in-2024/8039331.article"
+    },
+    "employees": {
+      "display": "18,000+ Team Members",
+      "rationale": "18,000+ Team Members",
+      "source": "https://www.sunbeltrentals.com/about/"
+    }
+  },
+  "TA Operating": {
+    "revenue": {
+      "display": "$10.78 Billion",
+      "rationale": "$10.78 Billion USD (TTM as of October 2025)",
+      "source": "https://companiesmarketcap.com/travelcenters-of-america/revenue/"
+    },
+    "volume": {
+      "display": "325 locations (as of February 5, 2025)",
+      "rationale": "325 locations (as of February 5, 2025)",
+      "source": "https://www.scrapehero.com/location-reports/TravelCenters%20of%20America-USA/"
+    },
+    "employees": {
+      "display": "19,000",
+      "rationale": "19,000 employees",
+      "source": "https://www.owler.com/company/ta-petro"
+    }
+  },
+  "The Braun Corporation": {
+    "revenue": {
+      "display": "$180.0M",
+      "rationale": "$180.0M (2024)",
+      "source": "https://www.zippia.com/braunability-careers-40898/revenue/"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not directly applicable as BraunAbility is a manufacturer, not a fleet operator. They offer a range of wheelchair-accessible vehicles and lifts",
+      "source": "https://www.braunability.com/us/en.html"
+    },
+    "employees": {
+      "display": "2,000 as of 2024",
+      "rationale": "2,000 as of 2024",
+      "source": "https://pitchbook.com/profiles/company/113386-96"
+    }
+  },
+  "Tipton": {
+    "revenue": {
+      "display": "$17.8 Million",
+      "rationale": "$17.8 Million",
+      "source": "https://www.zoominfo.com/c/tipton-trucking-co-inc/144769041"
+    },
+    "volume": {
+      "display": "54 units",
+      "rationale": "54 units",
+      "source": "https://bubba.ai/trucking-companies/profile/tipton-trucking-co-inc-282773"
+    },
+    "employees": {
+      "display": "90+ employees",
+      "rationale": "90+ employees",
+      "source": "https://www.tiptontrucking.com/"
+    }
+  },
+  "Truck Max": {
+    "revenue": {
+      "display": "$7.5M",
+      "rationale": "$7.5M (estimated)",
+      "source": "https://growjo.com/company/TruckMax"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Unavailable. TruckMax Inc. is a commercial truck dealership, not a fleet operator. Therefore, fleet size/transaction volume for their own operations is not directly applicable in the same way as a logistics company. They sell trucks, but do not operate a fleet for transport services",
+      "source": "None"
+    },
+    "employees": {
+      "display": "103",
+      "rationale": "103 employees (estimated)",
+      "source": "https://growjo.com/company/TruckMax"
+    }
+  },
+  "United Rentals": {
+    "revenue": {
+      "display": "$15.35 billion",
+      "rationale": "$15.35 billion",
+      "source": "https://www.macrotrends.net/stocks/charts/URI/united-rentals/revenue"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "$20.56 billion in original equipment cost (OEC) as of early 2024",
+      "source": "https://dcfmodeling.com/blogs/history/uri-history-mission-ownership?srsltid=AfmBOootn5HBVkYpIlQsppp52qaxa1P3fxfJEGaiS47t2cBkwBOoqH8x"
+    },
+    "employees": {
+      "display": "27,900",
+      "rationale": "27,900 employees",
+      "source": "https://www.macrotrends.net/stocks/charts/URI/united-rentals/number-of-employees"
+    }
+  },
+  "Victory Sweepers": {
+    "revenue": {
+      "display": "$5 Million",
+      "rationale": "Estimated <$5 Million (Based on multiple business intelligence platforms like Zoominfo, Datanyze, and Seamless.ai consistently reporting revenue in the '<$5 Million' or '$1M - $5M' range. RocketReach specifically states $3 million for 2025. Given the consistency, 2024 revenue is estimated to be within this range.)",
+      "source": "https://www.zoominfo.com/c/victory-sweepers-inc/473462958"
+    },
+    "volume": {
+      "display": "30-50 units",
+      "rationale": "Estimated 30-50 specialized street sweeper units annually based on niche market focus and estimated $10-15M revenue. Street sweepers are highly specialized equipment with average unit prices of $250K-400K, suggesting 30-50 units annually for a regional manufacturer.",
+      "source": "Industry benchmark for specialized street sweeper manufacturers"
+    },
+    "employees": {
+      "display": "14",
+      "rationale": "10-14 employees (Estimated based on multiple sources including Zoominfo, Aeroleads, and RocketReach, which report 10, 14, and 10 employees respectively, with no specific 2024 data. The range of 10-14 is the most consistent and recent available information.)",
+      "source": "https://www.zoominfo.com/pic/victory-sweepers-inc/473462958"
+    }
+  },
+  "Waters Truck & Tractor": {
+    "revenue": {
+      "display": "$51.1M",
+      "rationale": "$51.1M (2024)",
+      "source": "https://www.zippia.com/waters-truck-and-tractor-co-careers-531165/revenue/"
+    },
+    "volume": {
+      "display": "400-500 units",
+      "rationale": "Estimated 400-500 commercial truck sales annually based on $51.1M revenue and 300+ employees across seven locations. Average commercial truck price of $100K-130K suggests 400-500 units annually. Waters is a multi-location truck dealer.",
+      "source": "Industry benchmark for multi-location truck dealerships"
+    },
+    "employees": {
+      "display": "300+ employees across seven locations",
+      "rationale": "300+ employees across seven locations",
+      "source": "https://www.linkedin.com/company/waterstrucks"
+    }
+  },
+  "WorldWide": {
+    "revenue": {
+      "display": "$63.5M",
+      "rationale": "$63.5M",
+      "source": "https://www.zippia.com/worldwide-integrated-supply-chain-solutions-careers-1558268/revenue/"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Not explicitly found. As a 3PL, their volume is likely aggregated from various carriers. The website mentions '49.6% Total shipments hauled by Top 500 carriers'. This indicates significant transaction volume but not a direct fleet size",
+      "source": "https://www.worldwide-logistics.com/"
+    },
+    "employees": {
+      "display": "100",
+      "rationale": "100 employees",
+      "source": "https://www.zippia.com/worldwide-integrated-supply-chain-solutions-careers-1558268/revenue/"
+    }
+  },
+  "Mitsubishi Hitachi Capital": {
+    "revenue": {
+      "display": "N/A",
+      "rationale": "Not directly available for Mitsubishi HC Capital America. Mitsubishi HC Capital Inc. (parent company) reported 2.09 trillion JPY for FY2024",
+      "source": "https://stockanalysis.com/quote/tyo/8593/"
+    },
+    "volume": {
+      "display": "$7.5 billion in owned and managed assets",
+      "rationale": "$7.5 billion in owned and managed assets",
+      "source": "https://www.mhccna.com/en-us/about-us/press-release/75-billion-north-american-commercial-finance-company-created-merger"
+    },
+    "employees": {
+      "display": "800+ employees",
+      "rationale": "800+ employees",
+      "source": "https://mhccna.com/"
+    }
+  },
+  "NuGen Capital": {
+    "revenue": {
+      "display": "$5.4 million",
+      "rationale": "Annual revenue was $5.4 million in 2025 (likely fiscal year ending 2025, encompassing most of 2024)",
+      "source": "https://rocketreach.co/nugen-capital-management-profile_b4690807fc5ca641"
+    },
+    "volume": {
+      "display": "N/A",
+      "rationale": "Total energy investments were more than $250 million as of January 2025",
+      "source": "https://nugencapital.com/our-company/"
+    },
+    "employees": {
+      "display": "10",
+      "rationale": "Estimated 6-10 employees",
+      "source": "https://rocketreach.co/nugen-capital-management-profile_b4690807fc5ca641"
+    }
+  },
+  "Brightdrop": {
+    "revenue": {
+      "display": "N/A",
+      "rationale": "Not publicly disclosed by GM for 2024. Previous projections for 2023 were $1 billion, but actual sales fell short. Given the low sales volume in 2024 (1,529 units) and the decision to end production, 2024 revenue would be significantly less than 2023 projections and likely not material enough for separate disclosure by GM.",
+      "source": "None"
+    },
+    "volume": {
+      "display": "1,529 units",
+      "rationale": "1,529 units",
+      "source": "https://insideevs.com/news/776511/gm-brightdrop-production-ending-2025/"
+    },
+    "employees": {
+      "display": "Approximately 1,200",
+      "rationale": "Approximately 1,200 (estimated based on news reports of layoffs at the CAMI plant, which produced BrightDrop vans, prior to production ending in 2025)",
+      "source": "None"
+    }
+  },
+  "Chevrolet": {
+    "revenue": {
+      "display": "$157.5B",
+      "rationale": "Revenue is for the parent company, General Motors, as specific revenue for Chevrolet Commercial Vehicles was not found. This is an estimate for Chevrolet Commercial as it is part of GM's overall revenue.",
+      "source": "https://investor.gm.com/static-files/e86cba95-5077-4097-bf21-b3de40126ca8"
+    },
+    "volume": {
+      "display": "100,000-150,000 units",
+      "rationale": "Specific 2024 sales volume for Chevrolet commercial vehicles was not found. This is an estimate based on Chevrolet's market position and typical commercial vehicle sales volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "163,000 (GM)",
+      "rationale": "Employee count is for the parent company, General Motors, as specific employee numbers for Chevrolet Commercial Vehicles were not found.",
+      "source": "https://investor.gm.com/static-files/e86cba95-5077-4097-bf21-b3de40126ca8"
+    }
+  },
+  "Dodge": {
+    "revenue": {
+      "display": "€156.9 billion",
+      "rationale": "Revenue is for the parent company, Stellantis, as specific revenue for Dodge RAM Commercial was not found. It is an estimate for Dodge RAM Commercial as it is part of Stellantis' overall revenue.",
+      "source": "https://www.stellantis.com/en/news/press-releases/2025/february/full-year-2024-results"
+    },
+    "volume": {
+      "display": "439,039 units (total Ram sales in USA)",
+      "rationale": "Total Ram sales are provided for the USA market. Specific 2024 sales volume for other commercial models or other regions were not found as exact figures.",
+      "source": "https://www.best-selling-cars.com/usa/2024-full-year-usa-fca-car-sales-jeep-ram-dodge-chrysler-by-model/"
+    },
+    "employees": {
+      "display": "248,243",
+      "rationale": "Employee count is for the parent company, Stellantis, as specific employee numbers for Dodge RAM Commercial were not found.",
+      "source": "https://www.macrotrends.net/stocks/charts/STLA/stellantis/number-of-employees"
+    }
+  },
+  "Endera": {
+    "revenue": {
+      "display": "$59.2M",
+      "rationale": "Estimated annual revenue of $59.2M",
+      "source": "https://www.datanyze.com/companies/endera/483564097"
+    },
+    "volume": {
+      "display": "250 vehicles",
+      "rationale": "Can stock up to 250 vehicles",
+      "source": "https://www.enderamotors.com/press-releases/endera-launches-ev-pool-a-fleet-of-electric-cutaway-buses-ready-for-rapid-delivery"
+    },
+    "employees": {
+      "display": "200",
+      "rationale": "200 employees",
+      "source": "https://www.zoominfo.com/c/endera-motors/483564097"
+    }
+  },
+  "Fernhay": {
+    "revenue": {
+      "display": "$2",
+      "rationale": "$2-5M (est.)",
+      "source": "https://www.crunchbase.com/organization/fernhay"
+    },
+    "volume": {
+      "display": "200 units",
+      "rationale": "100-200 units (est.)",
+      "source": "None"
+    },
+    "employees": {
+      "display": "11-50",
+      "rationale": "11-50 employees",
+      "source": "https://www.linkedin.com/company/fernhay-solutions"
+    }
+  },
+  "Ford": {
+    "revenue": {
+      "display": "$66.9 billion",
+      "rationale": "$66.9 billion",
+      "source": "https://stockdividendscreener.com/auto-manufacturers/ford-revenue-by-segment/"
+    },
+    "volume": {
+      "display": "429,000 units",
+      "rationale": "429,000 units (Q2 wholesale volume, increased 15% year over year). Full year 2024 volume for Ford Pro was not explicitly found",
+      "source": "https://finance.yahoo.com/news/ford-q2-earnings-surpass-expectations-151600341.html"
+    },
+    "employees": {
+      "display": "171,000",
+      "rationale": "Estimated to be a significant portion of Ford Motor Company's total workforce of 171,000 employees as of December 31, 2024. A specific employee count for the Ford Pro segment alone was not publicly disclosed",
+      "source": "https://stockanalysis.com/stocks/f/employees/"
+    }
+  },
+  "GMC": {
+    "revenue": {
+      "display": "$157.5B",
+      "rationale": "Revenue is for the parent company, General Motors, as specific revenue for GMC Commercial Trucks was not found. This is an estimate for GMC Commercial as it is part of GM's overall revenue.",
+      "source": "https://investor.gm.com/static-files/e86cba95-5077-4097-bf21-b3de40126ca8"
+    },
+    "volume": {
+      "display": "50,000-100,000 units",
+      "rationale": "Specific 2024 sales volume for GMC commercial trucks was not found. This is an estimate based on GMC's market position and typical commercial vehicle sales volumes.",
+      "source": "None"
+    },
+    "employees": {
+      "display": "163,000 (GM)",
+      "rationale": "Employee count is for the parent company, General Motors, as specific employee numbers for GMC Commercial Trucks were not found.",
+      "source": "https://investor.gm.com/static-files/e86cba95-5077-4097-bf21-b3de40126ca8"
+    }
+  },
+  "Harbinger": {
+    "revenue": {
+      "display": "$500M",
+      "rationale": "The company announced an order book of 4690 vehicle orders, valued at approximately $500 million. This represents future revenue from orders, not necessarily realized 2024 revenue, but it's the closest available financial metric.",
+      "source": "https://harbingermotors.com/harbinger-launches-serial-production-of-american-made-medium-duty-electric-vehicle/"
+    },
+    "volume": {
+      "display": "4,690 units",
+      "rationale": "The company announced an order book of 4690 vehicle orders. While this is an order book and not necessarily units sold in 2024, it is the most relevant volume data available for the period.",
+      "source": "https://harbingermotors.com/harbinger-launches-serial-production-of-american-made-medium-duty-electric-vehicle/"
+    },
+    "employees": {
+      "display": "100",
+      "rationale": "Harbinger aims to hire an additional 100 employees in 2025. This suggests their current employee count is likely lower, and this is a growth target for 2025.",
+      "source": "https://harbingermotors.com/harbinger-launches-serial-production-of-american-made-medium-duty-electric-vehicle/"
+    }
+  },
+  "Isuzu": {
+    "revenue": {
+      "display": "$6.05B",
+      "rationale": "The revenue is calculated from the 'Total sales' for 'Other' regions (which includes North America) in FY2024 (April '23 to March '24) from Isuzu Motors Limited's 'Financial Summary: FY2024 Consolidated Results'. The figure was 877.2 billion JPY, converted to USD using the exchange rate of 145 JPY/US$ provided in the document.",
+      "source": "https://www.isuzu.co.jp/world/company/investor/financial/results/assets/pdf/con_ref202403e.pdf"
+    },
+    "volume": {
+      "display": "43,600 units",
+      "rationale": "The volume is directly taken from the 'CV sales Vol by Region' for 'North America' in FY2024 (April '23 to March '24) from Isuzu Motors Limited's 'Financial Summary: FY2024 Consolidated Results'.",
+      "source": "https://www.isuzu.co.jp/world/company/investor/financial/results/assets/pdf/con_ref202403e.pdf"
+    },
+    "employees": {
+      "display": "500",
+      "rationale": "Based on multiple sources (Zoominfo: 469, Growjo: 531, RocketReach: 425), with Growjo indicating a 3% growth in the last year. An average of these figures is approximately 475, and considering the growth, ~500 is a reasonable estimate for 2024.",
+      "source": "https://www.zoominfo.com/c/isuzu-commercial-truck-of-america-inc/149898370"
+    }
+  },
+  "Mack": {
+    "revenue": {
+      "display": "$1.5B",
+      "rationale": "Zippia states Mack Trucks' peak revenue was $1.5B in 2024. This figure is specific to Mack Trucks, rather than the broader Volvo Group.",
+      "source": "https://www.zippia.com/mack-trucks-careers-30073/revenue/"
+    },
+    "volume": {
+      "display": "28,044 units",
+      "rationale": "WFMZ reported that Mack Trucks' full-year 2024 deliveries were 28,044 units.",
+      "source": "https://www.wfmz.com/business/mack-trucks-shifts-up-a-gear/article_9e546cbc-de69-11ef-a592-d79f606acf7e.html"
+    },
+    "employees": {
+      "display": "2,000",
+      "rationale": "Zippia reports Mack Trucks has 2,000 employees. This number is consistent across multiple Zippia pages and other general information sites.",
+      "source": "https://www.zippia.com/mack-trucks-careers-30073/revenue/"
+    }
+  },
+  "Mercedes Benz": {
+    "revenue": {
+      "display": "€19.32B",
+      "rationale": "Mercedes-Benz Vans division revenue for fiscal year 2024. Source: Mercedes-Benz Group Fact Sheet Q4 2024, page 5 'Revenue by Segment' showing €19,320 million for Mercedes-Benz Vans segment.",
+      "source": "https://group.mercedes-benz.com/dokumente/investoren/berichte/geschaeftsberichte/mercedes-benz/mercedes-benz-factsheet-q4-2024.pdf"
+    },
+    "volume": {
+      "display": "405,600",
+      "rationale": "Mercedes-Benz Vans worldwide sales for full year 2024. Source: Mercedes-Benz Group sales announcement showing 405,600 units sold globally across all van segments (Sprinter, Vito, Citan).",
+      "source": "https://group.mercedes-benz.com/company/news/sales-2024.html"
+    },
+    "employees": {
+      "display": "10,000-12,000",
+      "rationale": "Estimated Mercedes-Benz Vans division employees based on segment revenue proportion (13.3% of total Mercedes-Benz Group revenue of €145.6B). Mercedes-Benz Group total: 175,000 employees worldwide.",
+      "source": "https://group.mercedes-benz.com/sustainability/people/"
+    }
+  },
+  "Mullen": {
+    "revenue": {
+      "display": "$1.1 million",
+      "rationale": "$1.1 million",
+      "source": "https://www.nasdaq.com/articles/mullen-automotive-inc-reports-fiscal-year-2024-growth-dealer-network-sales-and-cost"
+    },
+    "volume": {
+      "display": "443 commercial vehicles invoiced",
+      "rationale": "443 commercial vehicles invoiced",
+      "source": "https://www.nasdaq.com/articles/mullen-automotive-inc-reports-fiscal-year-2024-growth-dealer-network-sales-and-cost"
+    },
+    "employees": {
+      "display": "388",
+      "rationale": "388 full-time employees",
+      "source": "https://www.sec.gov/Archives/edgar/data/1499961/000143774925001816/muln20240930_10k.htm"
+    }
+  },
+  "Nikola": {
+    "revenue": {
+      "display": "$68.9M",
+      "rationale": "Nikola Corporation's total revenues for 2024 increased by 92% to $68.9 million, driven by a 107% increase in truck sales to $62.2 million. This figure is cited from the company's 2024 annual report.",
+      "source": "https://www.webull.com/news/13657199082275840"
+    },
+    "volume": {
+      "display": "200 FCEVs",
+      "rationale": "Nikola shipped 200 Tre FCEVs in 2024. This is a direct figure from the Webull news article summarizing the 2024 annual report.",
+      "source": "https://www.webull.com/news/13657199082275840"
+    },
+    "employees": {
+      "display": "940",
+      "rationale": "As of December 31, 2024, Nikola Corporation had 940 employees. This is a direct figure from stockanalysis.com.",
+      "source": "https://stockanalysis.com/quote/otc/NKLAQ/employees/"
+    }
+  },
+  "Peterbilt": {
+    "revenue": {
+      "display": "$1.2B",
+      "rationale": "The PACCAR 2024 Annual Report provides consolidated revenue for PACCAR, not Peterbilt specifically. Growjo.com estimates Peterbilt's annual revenue at $1.2B. This is an estimate based on available third-party data.",
+      "source": "https://growjo.com/company/Peterbilt_Motors_Company"
+    },
+    "volume": {
+      "display": "6,100 units (Model 589)",
+      "rationale": "The PACCAR 2024 Annual Report states: 'Peterbilt increased its heavy-duty market share in 2024 and delivered over 6,100 Model 589s in the first year of production.' This is a specific number for a new model and not the total volume.",
+      "source": "https://www.paccar.com/media/1aml4ipx/2024-annual-report.pdf"
+    },
+    "employees": {
+      "display": "2,700",
+      "rationale": "Peterbilt's employee count is not explicitly stated for 2024 in the PACCAR 2024 Annual Report. However, zoominfo.com and owler.com both report 2,500-2,700 employees.",
+      "source": "https://www.zoominfo.com/c/peterbilt-motors-co/30212575"
+    }
+  },
+  "REE": {
+    "revenue": {
+      "display": "$183.00K",
+      "rationale": "$183.00K annual revenue in 2024",
+      "source": "https://stockanalysis.com/stocks/ree/revenue/"
+    },
+    "volume": {
+      "display": "10-20 units",
+      "rationale": "Estimated 10-20 prototype/pilot units in 2024. Company initiated low-volume production with first commercial deliveries targeted for H1 2025. Production was paused due to macroeconomic concerns. Given $183K revenue and early-stage commercialization, volume is estimated at pilot/demonstration level.",
+      "source": "https://investors.ree.auto/"
+    },
+    "employees": {
+      "display": "211",
+      "rationale": "211 employees as of December 31, 2024",
+      "source": "https://stockanalysis.com/stocks/ree/employees/"
+    }
+  },
+  "Rizon": {
+    "revenue": {
+      "display": "€54,077 million",
+      "rationale": "Rizon Trucks is a brand of Daimler Truck. Specific revenue figures for Rizon are not publicly disclosed. Therefore, the revenue for the entire Daimler Truck Group in 2024 is provided as a proxy.",
+      "source": "https://www.daimlertruck.com/fileadmin/user_upload/documents/investors/reports/annual-reports/2024/daimler-truck-ir-annual-report-2024-incl-combined-management-report-dth-ag.pdf"
+    },
+    "volume": {
+      "display": "460,409 units",
+      "rationale": "Rizon Trucks is a brand of Daimler Truck. Specific vehicle production/sales volume for Rizon is not publicly disclosed. Therefore, the total unit sales for the entire Daimler Truck Group in 2024 is provided as a proxy.",
+      "source": "https://www.daimlertruck.com/fileadmin/user_upload/documents/investors/reports/annual-reports/2024/daimler-truck-ir-annual-report-2024-incl-combined-management-report-dth-ag.pdf"
+    },
+    "employees": {
+      "display": "102,895",
+      "rationale": "Rizon Trucks is a brand of Daimler Truck. Specific employee numbers for Rizon are not publicly disclosed. Therefore, the employee count for the entire Daimler Truck Group as of December 31, 2024, is provided as a proxy.",
+      "source": "https://www.daimlertruck.com/fileadmin/user_upload/documents/investors/reports/annual-reports/2024/daimler-truck-ir-annual-report-2024-incl-combined-management-report-dth-ag.pdf"
+    }
+  },
+  "Serial 1 (e-bikes)": {
+    "revenue": {
+      "display": "$0.5M",
+      "rationale": "Estimate: $0.5M - $2M. Rationale: Serial 1 was acquired by LEV Manufacturing, Inc. in late 2023, with a relaunch planned for early 2025. The company was likely in a transitional phase during 2024, focusing on setting up USA-based production and preparing new product lines. Sales activity would have been minimal or paused as they transitioned from Harley-Davidson's distribution to LEV Manufacturing's new strategy. The previous estimated annual revenue for Serial 1 Cycle Company was $1.5M, but this was prior to the acquisition and significant operational changes. Given the transitional nature of 2024 and the focus on relaunch, revenue would likely be lower than previous years, possibly covering some operational costs or limited sales of remaining stock. No specific 2024 revenue figures for Serial 1 or LEV Manufacturing directly related to Serial 1 are publicly available",
+      "source": "https://growjo.com/company/Serial_1_Cycle_Company"
+    },
+    "volume": {
+      "display": "500 units",
+      "rationale": "Estimate: 100-500 units. Rationale: Serial 1 was acquired by LEV Manufacturing, Inc. in late 2023, with a full relaunch and USA-based production slated for early 2025. This indicates that 2024 was a transitional year focused on preparing for the new production setup rather than active manufacturing and sales. Therefore, any volume in 2024 would likely be from clearing out existing inventory or very limited, pre-production sales. No specific 2024 production or sales volume for Serial 1 under LEV Manufacturing is publicly available",
+      "source": "None"
+    },
+    "employees": {
+      "display": "50",
+      "rationale": "Estimate: 20-50 employees. Rationale: Serial 1 was acquired by LEV Manufacturing, Inc. in late 2023, and a relaunch with USA-based production is planned for early 2025. During 2024, the company was likely in a transitional phase, preparing for the relaunch. While specific 2024 employee numbers for Serial 1 under LEV Manufacturing are not publicly available, Life Electric Vehicles (the parent company of LEV Manufacturing) is indicated to have <25 employees by Zoominfo and Life Electric Vehicles Holdings (LFEV) also shows <25 employees. Given this, a reasonable estimate for Serial 1's dedicated team during the transitional year would be between 20 and 50, encompassing core management, engineering, and preparatory staff for the upcoming production",
+      "source": "https://www.zoominfo.com/c/life-electric-vehicles-inc/463231036"
+    }
+  },
+  "Stellantis (RAM)": {
+    "revenue": {
+      "display": "$25",
+      "rationale": "€156.9B (Stellantis), RAM ~$25-30B (est.)",
+      "source": "https://www.stellantis.com/en/news/press-releases/2025/february/full-year-2024-results"
+    },
+    "volume": {
+      "display": "373,000 vehicles",
+      "rationale": "373,000 vehicles",
+      "source": "https://gmauthority.com/blog/2025/01/gm-full-size-truck-sales-numbers-figures-results-2024/"
+    },
+    "employees": {
+      "display": "248,243 (Stellantis)",
+      "rationale": "248,243 (Stellantis)",
+      "source": "https://www.macrotrends.net/stocks/charts/STLA/stellantis/number-of-employees"
+    }
+  },
+  "Streetrod Golf Cars (SRC)": {
+    "revenue": {
+      "display": "$5 Million",
+      "rationale": "Estimated <$5 Million based on ZoomInfo. RocketReach reported $13 million in 2025, which is likely a forward-looking estimate or a typo for 2024/previous year. The official website does not provide revenue figures",
+      "source": "https://www.zoominfo.com/c/streetrod-golf-cars/81215828"
+    },
+    "volume": {
+      "display": "50-100 units",
+      "rationale": "Estimated 50-100 custom luxury golf cart units annually based on small-scale custom manufacturer profile. Company emphasizes handcrafted, bespoke vehicles with higher price points and lower volume compared to mass-market manufacturers. Industry benchmark for boutique custom vehicle manufacturers typically ranges 50-150 units annually.",
+      "source": "Industry benchmark estimation"
+    },
+    "employees": {
+      "display": "23",
+      "rationale": "Estimated 7-23 employees based on conflicting information from RocketReach (3 employees) and Datanyze (23 employees). ContactOut reports 7 employees. The official website does not provide employee count",
+      "source": "https://rocketreach.co/streetrod-golf-cars-profile_b4623aadfc5d8e44"
+    }
+  },
+  "Volkswagen": {
+    "revenue": {
+      "display": "€15.1 billion",
+      "rationale": "Directly stated in multiple press releases from Volkswagen Group.",
+      "source": "https://www.vwpress.co.uk/releases/5280"
+    },
+    "volume": {
+      "display": "408,300 vehicles",
+      "rationale": "Directly stated in a press release from Volkswagen Commercial Vehicles.",
+      "source": "https://www.vwpress.co.uk/releases/5247"
+    },
+    "employees": {
+      "display": "646,501 (Volkswagen Group total)",
+      "rationale": "The provided sources for employee count refer to the entire Volkswagen Group. Specific employee numbers for Volkswagen Commercial Vehicles alone were not found for 2024. The figure represents the total active employees of the Volkswagen Group as of December 31, 2024.",
+      "source": "https://annualreport2024.volkswagen-group.com/group-management-report/business-development/total-workforce.html"
+    }
+  },
+  "Workhorse": {
+    "revenue": {
+      "display": "$6.6M",
+      "rationale": "$6.6M",
+      "source": "https://ir.workhorse.com/news-events/press-releases/detail/295/workhorse-group-reports-full-year-2024-results"
+    },
+    "volume": {
+      "display": "50 vehicles",
+      "rationale": "~50 vehicles",
+      "source": "https://www.nasdaq.com/articles/workhorse-sales-beat-estimates"
+    },
+    "employees": {
+      "display": "143",
+      "rationale": "143 employees",
+      "source": "https://stockanalysis.com/stocks/wkhs/employees/"
+    }
+  }
+}

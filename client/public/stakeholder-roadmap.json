@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "name": "Dealership",
+    "displayName": "Dealers",
+    "revenueModel": "$800-$10K/month",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "$800-$10K/month marketplace subscriptions"},
+        {"name": "Digital Deal Jackets", "revenue": "$500-$1.5K/month SaaS"},
+        {"name": "PaperX AI", "revenue": "$300-$1K/month"},
+        {"name": "Upfit Portal", "revenue": "Bundled with marketplace"},
+        {"name": "SHAED Hero Page", "revenue": "Bundled (loss leader)"}
+      ],
+      "roadmap": [
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$1K-$10K/month valuation tools"},
+        {"name": "Lender Network Integration", "phase": "Phase 3", "revenue": "Free (monetize through lender fees)"},
+        {"name": "Insurance Marketplace", "phase": "Phase 5", "revenue": "5-10% revenue share on policies"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Quote", "Order", "Fulfill", "Manage", "Repeat"]
+  },
+  {
+    "id": 2,
+    "name": "OEM",
+    "displayName": "OEMs",
+    "revenueModel": "$500-$2K/month + leads",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "$500-$2K/month listing fees"},
+        {"name": "SHAED Hero Page", "revenue": "Bundled showcase platform"},
+        {"name": "SHAED Catalog", "revenue": "Included in marketplace"}
+      ],
+      "roadmap": [
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$10K-$50K/month data licensing"},
+        {"name": "OEM Partnerships", "phase": "Phase 5", "revenue": "$50K-$200K/year white-label licensing"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Quote"]
+  },
+  {
+    "id": 3,
+    "name": "Upfitter",
+    "displayName": "Upfitters",
+    "revenueModel": "$500-$8K/month",
+    "products": {
+      "released": [
+        {"name": "Upfit Portal", "revenue": "$500-$8K/month by revenue tier"},
+        {"name": "Digital Deal Jackets", "revenue": "Bundled workflow integration"},
+        {"name": "PaperX AI", "revenue": "Document processing included"}
+      ],
+      "roadmap": [
+        {"name": "Lender Network Integration", "phase": "Phase 3", "revenue": "Equipment financing integration"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order", "Fulfill"]
+  },
+  {
+    "id": 4,
+    "name": "End User",
+    "displayName": "Fleet Managers",
+    "revenueModel": "$15-$40/vehicle/month",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "Free buyer access"}
+      ],
+      "roadmap": [
+        {"name": "Pritchard Dashboard", "phase": "Phase 2-4", "revenue": "$15-$40/vehicle/month telematics"},
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$1K-$10K/month analytics"},
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "$5K-$50K per project"},
+        {"name": "Compliance Management", "phase": "Phase 3", "revenue": "$10-$30/vehicle/month"},
+        {"name": "Service Network Integration", "phase": "Phase 4", "revenue": "Included in Pritchard"},
+        {"name": "Insurance Marketplace", "phase": "Phase 5", "revenue": "Free (10-30% savings)"},
+        {"name": "Remarketing Optimization", "phase": "Phase 5", "revenue": "3-5% seller fee"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Quote", "Order", "Fulfill", "Manage", "Repeat"]
+  },
+  {
+    "id": 5,
+    "name": "Traditional Finance Provider",
+    "displayName": "Financial Institutions",
+    "revenueModel": "$5K-$20K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Lender Network Integration", "phase": "Phase 3", "revenue": "$5K-$20K/month + $100-$400 per deal"},
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$10K-$50K/month data licensing"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order"]
+  },
+  {
+    "id": 6,
+    "name": "Equipment Manufacturer",
+    "displayName": "Body Manufacturers",
+    "revenueModel": "$2K-$10K/year",
+    "products": {
+      "released": [
+        {"name": "Upfit Portal", "revenue": "$2K-$10K/year listing + 5-10% revenue share"}
+      ],
+      "roadmap": [
+        {"name": "SHAED Catalog", "phase": "Phase 2", "revenue": "Equipment catalog integration"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order"]
+  },
+  {
+    "id": 7,
+    "name": "Maintenance Provider",
+    "displayName": "Service Providers",
+    "revenueModel": "$1K-$5K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Service Network Integration", "phase": "Phase 4", "revenue": "$1K-$5K/month per location"},
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "Service scheduling integration"}
+      ]
+    },
+    "lifecycleStages": ["Manage"]
+  },
+  {
+    "id": 8,
+    "name": "Insurance Provider",
+    "displayName": "Insurance Providers",
+    "revenueModel": "$10K-$50K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Insurance Marketplace", "phase": "Phase 5", "revenue": "$8K-$15K/month + 15-30% commission"},
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$10K-$50K/month data licensing"},
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "Telematics data for UBI"}
+      ]
+    },
+    "lifecycleStages": ["Order", "Manage"]
+  },
+  {
+    "id": 9,
+    "name": "Fleet Management Company",
+    "displayName": "Fleet Management Companies",
+    "revenueModel": "$5K-$15K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Lender Network Integration", "phase": "Phase 3", "revenue": "$5K-$15K/month leasing network"},
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "White-label fleet management"}
+      ]
+    },
+    "lifecycleStages": ["Order", "Manage"]
+  },
+  {
+    "id": 10,
+    "name": "Remarketing Specialists",
+    "displayName": "Remarketing Specialists",
+    "revenueModel": "$5K-$20K/month",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "Remarketing channel access"}
+      ],
+      "roadmap": [
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "$5K-$20K/month data subscription"},
+        {"name": "Remarketing Optimization", "phase": "Phase 5", "revenue": "AI-powered pricing and timing"}
+      ]
+    },
+    "lifecycleStages": ["Repeat"]
+  },
+  {
+    "id": 11,
+    "name": "Charging as a Service",
+    "displayName": "Charging Infrastructure Providers",
+    "revenueModel": "15-25% revenue share",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "15-25% of $100K-$500K projects"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order", "Fulfill"]
+  },
+  {
+    "id": 12,
+    "name": "EPC",
+    "displayName": "Electrical Engineering Firms",
+    "revenueModel": "Subcontractor fees",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "Subcontractor or revenue share"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Fulfill"]
+  },
+  {
+    "id": 13,
+    "name": "EV Finance Provider",
+    "displayName": "EV Finance Providers",
+    "revenueModel": "$5K-$15K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Lender Network Integration", "phase": "Phase 3", "revenue": "$5K-$15K/month + transaction fees"},
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "Infrastructure financing $100K-$500K"}
+      ]
+    },
+    "lifecycleStages": ["Order", "Fulfill"]
+  },
+  {
+    "id": 14,
+    "name": "Utility Provider",
+    "displayName": "Utility Companies",
+    "revenueModel": "Partnership model",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "Utility coordination and demand management"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Fulfill"]
+  },
+  {
+    "id": 15,
+    "name": "Channel Partner",
+    "displayName": "Compliance Consultants",
+    "revenueModel": "20-30% revenue share",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Compliance Management", "phase": "Phase 3", "revenue": "20-30% of consulting fees"}
+      ]
+    },
+    "lifecycleStages": ["Manage"]
+  },
+  {
+    "id": 16,
+    "name": "Government Agency",
+    "displayName": "Government Agencies",
+    "revenueModel": "Enterprise pricing",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "Fleet procurement platform"}
+      ],
+      "roadmap": [
+        {"name": "Compliance Management", "phase": "Phase 3", "revenue": "Regulatory reporting integration"},
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "Government fleet management"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Quote", "Order", "Manage"]
+  },
+  {
+    "id": 17,
+    "name": "Grant Administrator",
+    "displayName": "Grant Administrators",
+    "revenueModel": "15-20% success fee",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "15-20% of $50K-$200K incentives"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order"]
+  },
+  {
+    "id": 18,
+    "name": "Technology Solutions",
+    "displayName": "Technology Solutions",
+    "revenueModel": "API integration",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "$5K-$15K/month API access"}
+      ]
+    },
+    "lifecycleStages": ["Manage"]
+  },
+  {
+    "id": 19,
+    "name": "Charging OEM",
+    "displayName": "Charging Equipment Manufacturers",
+    "revenueModel": "Equipment sales",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "Equipment recommendation and sales"}
+      ]
+    },
+    "lifecycleStages": ["Quote", "Order", "Fulfill"]
+  },
+  {
+    "id": 20,
+    "name": "Depot",
+    "displayName": "Depot Operators",
+    "revenueModel": "$500-$2K/month",
+    "products": {
+      "released": [],
+      "roadmap": [
+        {"name": "Charging Infrastructure Planning", "phase": "Phase 3", "revenue": "Depot charging design"},
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "Depot management integration"}
+      ]
+    },
+    "lifecycleStages": ["Fulfill", "Manage"]
+  },
+  {
+    "id": 21,
+    "name": "Logistics",
+    "displayName": "Logistics Providers",
+    "revenueModel": "Enterprise pricing",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "Fleet procurement"}
+      ],
+      "roadmap": [
+        {"name": "Pritchard Dashboard", "phase": "Phase 4", "revenue": "Route optimization and fleet tracking"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Order", "Manage"]
+  },
+  {
+    "id": 22,
+    "name": "Dealer Group",
+    "displayName": "Dealer Groups",
+    "revenueModel": "$10K-$50K/month",
+    "products": {
+      "released": [
+        {"name": "SHAED Marketplace", "revenue": "Multi-location marketplace"},
+        {"name": "Digital Deal Jackets", "revenue": "Enterprise SaaS"},
+        {"name": "PaperX AI", "revenue": "Volume document processing"}
+      ],
+      "roadmap": [
+        {"name": "Commercial Vehicle Valuation", "phase": "Phase 3", "revenue": "Enterprise data licensing"}
+      ]
+    },
+    "lifecycleStages": ["Consider", "Quote", "Order", "Fulfill", "Manage", "Repeat"]
+  }
+]
+

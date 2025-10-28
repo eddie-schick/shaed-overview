@@ -1,0 +1,36 @@
+{
+  "total_dealerships": {
+    "value": "20,755",
+    "retail": "16,957",
+    "commercial": "3,798"
+  },
+  "combined_annual_sales": {
+    "value": "$1.37 Trillion",
+    "retail": "$1.24T",
+    "commercial": "$130.2B"
+  },
+  "total_vehicles_sold": {
+    "value": "16.3M",
+    "retail": "15.85M",
+    "commercial": "482,274"
+  },
+  "total_repair_orders": {
+    "value": "280M+",
+    "retail": "270M",
+    "commercial": "10M"
+  },
+  "total_employees": {
+    "value": "1,262,045",
+    "retail": "1,122,117",
+    "commercial": "139,928*"
+  },
+  "total_software_spend": {
+    "value": "$4.36B*",
+    "note": "Calculated from monthly \u00d7 12 \u00d7 total dealerships"
+  },
+  "total_advertising_spend": {
+    "value": "$11.40B",
+    "retail": "$11.0B",
+    "commercial": "$0.40B"
+  }
+}

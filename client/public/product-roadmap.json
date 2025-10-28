@@ -1,0 +1,549 @@
+{
+  "released_features": [
+    {
+      "id": "shaed-marketplace",
+      "name": "SHAED Marketplace",
+      "pillar": "Catalog",
+      "status": "Released",
+      "lifecycle_stages": ["Consider", "Repeat"],
+      "stakeholders": ["Dealer", "OEM", "End User", "Remarketing Specialist"],
+      "description": "Multi-channel inventory management system for commercial vehicle dealerships with catalog creation and marketplace integration",
+      "key_capabilities": [
+        "Multi-channel Listing Management",
+        "Detailed Vehicle Tracking",
+        "Performance Analytics",
+        "Bulk Operations"
+      ]
+    },
+    {
+      "id": "shaed-catalog",
+      "name": "SHAED Catalog",
+      "pillar": "Catalog",
+      "status": "Released",
+      "lifecycle_stages": ["Consider"],
+      "stakeholders": ["Dealer", "End User", "Fleet Management Company"],
+      "description": "Customer-facing catalog platform where buyers can browse, spec, customize, and order vehicles with dealer inventory management",
+      "key_capabilities": [
+        "Vehicle Catalog",
+        "Customer Catalogs",
+        "Vehicle Name Configuration",
+        "Vehicle Card Configuration",
+        "CommercialEVs.com Integration"
+      ]
+    },
+    {
+      "id": "hero-page",
+      "name": "SHAED Hero Page",
+      "pillar": "Catalog",
+      "status": "Released",
+      "lifecycle_stages": ["Consider", "Quote"],
+      "stakeholders": ["OEM", "Dealer", "Fleet Management Company"],
+      "description": "Dynamic, configurable product showcase interface for any commercial vehicle model",
+      "key_capabilities": [
+        "Dynamic Vehicle Configuration",
+        "Comprehensive Information Architecture",
+        "Inventory Management Integration",
+        "Stakeholder Network Connection"
+      ]
+    },
+    {
+      "id": "order-management",
+      "name": "Order Management",
+      "pillar": "Order Management",
+      "status": "Released",
+      "lifecycle_stages": ["Order", "Fulfill"],
+      "stakeholders": ["Dealer", "Upfitter", "Fleet Management Company"],
+      "description": "Comprehensive web-based management system for complete vehicle order lifecycle from placement to delivery",
+      "key_capabilities": [
+        "Multi-Stage Order Tracking",
+        "Advanced Filtering and Search",
+        "Detailed Order Information",
+        "Order State Management",
+        "Stock Management"
+      ]
+    },
+    {
+      "id": "upfit-portal",
+      "name": "Upfit Portal",
+      "pillar": "Order Management",
+      "status": "Released",
+      "lifecycle_stages": ["Quote", "Order", "Fulfill"],
+      "stakeholders": ["Upfitter", "Dealer", "Fleet Management Company", "Body Manufacturer"],
+      "description": "Centralized order management and status tracking system for vehicle upfitting operations",
+      "key_capabilities": [
+        "Order Management Dashboard",
+        "Advanced Filtering System",
+        "Export Capabilities",
+        "Role-Based Access Control",
+        "Production Planning"
+      ]
+    },
+    {
+      "id": "digital-deal-jackets",
+      "name": "Digital Deal Jackets",
+      "pillar": "Documentation",
+      "status": "Released",
+      "lifecycle_stages": ["Quote", "Order", "Fulfill"],
+      "stakeholders": ["Dealer", "Finance", "Upfitter", "Grant Administrator"],
+      "description": "Comprehensive document management platform for automotive dealerships to organize sales transaction paperwork",
+      "key_capabilities": [
+        "Deal Tracking Dashboard",
+        "Advanced Filtering",
+        "Bulk Operations",
+        "Document Categories",
+        "PaperX AI Integration"
+      ]
+    },
+    {
+      "id": "paperx-ai",
+      "name": "PaperX AI",
+      "pillar": "Documentation",
+      "status": "Released",
+      "lifecycle_stages": ["Order"],
+      "stakeholders": ["Dealer", "Finance"],
+      "description": "AI-powered document processing engine that automatically sorts and organizes automotive documents",
+      "key_capabilities": [
+        "AI-Powered Document Processing",
+        "Multi-Document Type Training",
+        "VIN Search Functionality",
+        "Intelligent Categorization",
+        "Precision Extraction"
+      ]
+    }
+  ],
+  "roadmap_phases": [
+    {
+      "phase": 2,
+      "name": "Upfitting Integration",
+      "timeline": "Months 7-12",
+      "target_mrr": "$200K-$400K",
+      "focus": "Differentiation Through Upfitting",
+      "products": [
+        {
+          "name": "Enhanced Upfit Portal",
+          "lifecycle_stages": ["Quote", "Order", "Fulfill"],
+          "stakeholders": ["Upfitter", "Body Manufacturer", "Component Manufacturer", "Engineering Firm"],
+          "description": "Expanded upfitting capabilities with spec library, vendor marketplace, and project management",
+          "key_features": [
+            "Spec Library (500+ standard configurations)",
+            "Vendor Marketplace for components",
+            "Project Management Tools",
+            "Real-time Collaboration",
+            "Payment Milestone Tracking"
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Data & Financial Services",
+      "timeline": "Months 13-18",
+      "target_mrr": "$400K-$700K",
+      "focus": "Platform Intelligence & Financing",
+      "products": [
+        {
+          "name": "Commercial Vehicle Valuation & Data Products",
+          "lifecycle_stages": ["Consider", "Quote", "Repeat"],
+          "stakeholders": ["Dealer", "Finance", "Fleet Management Company", "Remarketing Specialist", "Insurance"],
+          "description": "Industry-standard valuation authority for commercial vehicles with comprehensive market intelligence",
+          "key_features": [
+            "Real-time Valuation API",
+            "Commercial EV Residual Modeling",
+            "TCO Calculator",
+            "Market Intelligence Dashboard",
+            "Depreciation Forecasting"
+          ]
+        },
+        {
+          "name": "Lender Network Integration",
+          "lifecycle_stages": ["Quote", "Order"],
+          "stakeholders": ["Finance", "Dealer", "Fleet Management Company", "Leasing Company"],
+          "description": "Two-sided marketplace connecting commercial vehicle financing opportunities with specialized lenders",
+          "key_features": [
+            "Lender Marketplace (15-40+ lenders)",
+            "Instant Pre-qualification",
+            "EV Financing Programs",
+            "Infrastructure Financing",
+            "Automated Documentation Flow"
+          ]
+        },
+        {
+          "name": "Charging Infrastructure Planning",
+          "lifecycle_stages": ["Consider", "Quote", "Order", "Fulfill"],
+          "stakeholders": ["Fleet Management Company", "Charging Infrastructure Provider", "Utility Company", "Engineering Firm"],
+          "description": "Advisory services for depot charging design, utility coordination, and TCO modeling",
+          "key_features": [
+            "Depot Charging Design",
+            "Route-Based Needs Assessment",
+            "Utility Coordination",
+            "TCO Modeling with Infrastructure",
+            "Incentive Navigation"
+          ]
+        },
+        {
+          "name": "Compliance Management Module",
+          "lifecycle_stages": ["Manage"],
+          "stakeholders": ["Fleet Management Company", "Government Agency"],
+          "description": "Automated compliance tracking for DOT, FMCSA, EPA, OSHA, and state regulations",
+          "key_features": [
+            "DOT/FMCSA Compliance Tracking",
+            "Driver Qualification Files",
+            "Hours of Service Monitoring",
+            "Vehicle Inspection Management",
+            "Automated Alerts & Reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "name": "Fleet Operations Platform",
+      "timeline": "Months 19-24",
+      "target_mrr": "$700K-$1.2M",
+      "focus": "Comprehensive Fleet Management",
+      "products": [
+        {
+          "name": "Pritchard Dashboard (Full Deployment)",
+          "lifecycle_stages": ["Manage"],
+          "stakeholders": ["Fleet Management Company", "End User", "Maintenance Provider", "Telematics Provider"],
+          "description": "Comprehensive fleet management platform with telematics, predictive maintenance, and commercial EV optimization",
+          "key_features": [
+            "Real-time Telematics Integration",
+            "Predictive Maintenance",
+            "Battery Health Monitoring",
+            "Charging Optimization",
+            "Service Network Integration",
+            "Driver Behavior Analytics"
+          ]
+        },
+        {
+          "name": "Service Network Integration",
+          "lifecycle_stages": ["Manage"],
+          "stakeholders": ["Maintenance Provider", "Fleet Management Company", "OEM"],
+          "description": "Connect fleets with qualified service providers for maintenance and repairs",
+          "key_features": [
+            "Service Provider Directory",
+            "Work Order Management",
+            "Parts Procurement",
+            "Warranty Claim Processing",
+            "Service History Tracking"
+          ]
+        },
+        {
+          "name": "API Platform",
+          "lifecycle_stages": ["All"],
+          "stakeholders": ["Technology Partner", "OEM", "Telematics Provider"],
+          "description": "Open API platform for third-party integrations and custom solutions",
+          "key_features": [
+            "RESTful APIs",
+            "Webhook Support",
+            "Developer Portal",
+            "API Analytics",
+            "White-label Solutions"
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "name": "Platform Maturity",
+      "timeline": "Months 25-36",
+      "target_mrr": "$1.5M-$2.5M",
+      "focus": "Market Leadership & Expansion",
+      "products": [
+        {
+          "name": "Insurance Marketplace",
+          "lifecycle_stages": ["Order", "Manage"],
+          "stakeholders": ["Insurance", "Fleet Management Company", "Dealer"],
+          "description": "Connect fleets with commercial vehicle insurance providers offering usage-based and telematics-enabled policies",
+          "key_features": [
+            "Insurance Provider Marketplace",
+            "Usage-Based Insurance (UBI)",
+            "Telematics-Enabled Policies",
+            "Risk Assessment Tools",
+            "Claims Management Integration"
+          ]
+        },
+        {
+          "name": "Remarketing Optimization (AI-Powered)",
+          "lifecycle_stages": ["Repeat"],
+          "stakeholders": ["Fleet Management Company", "Remarketing Specialist", "Dealer"],
+          "description": "AI-powered remarketing tools to optimize disposal timing, pricing, and channel selection",
+          "key_features": [
+            "AI Pricing Recommendations",
+            "Optimal Timing Analysis",
+            "Channel Recommendations",
+            "Reconditioning ROI Calculator",
+            "Market Trend Analysis",
+            "Bulk Disposal Optimization"
+          ]
+        },
+        {
+          "name": "International Expansion",
+          "lifecycle_stages": ["All"],
+          "stakeholders": ["All International Stakeholders"],
+          "description": "Expand SHAED platform to Canada and Mexico for cross-border fleet operations",
+          "key_features": [
+            "Multi-Currency Support",
+            "International Compliance",
+            "Cross-Border Telematics",
+            "International Remarketing"
+          ]
+        },
+        {
+          "name": "OEM Partnerships & Embedded Solutions",
+          "lifecycle_stages": ["All"],
+          "stakeholders": ["OEM", "All Stakeholders"],
+          "description": "White-label SHAED platform as OEM-branded fleet lifecycle solution",
+          "key_features": [
+            "OEM-Branded Platform",
+            "Factory Integration",
+            "Embedded Financing",
+            "Lifecycle Support"
+          ]
+        }
+      ]
+    }
+  ],
+  "lifecycle_stages": [
+    {
+      "stage": "Consider",
+      "name": "Research & Evaluation",
+      "description": "Fleet operators research vehicles, compare specifications, and evaluate options",
+      "stakeholders": [
+        {
+          "name": "End User",
+          "role": "Primary",
+          "onboarding_plan": "Provide access to SHAED Marketplace and Catalog for vehicle research. Integrate CommercialEVs.com for comprehensive EV information. Offer Hero Pages for detailed vehicle specifications.",
+          "products": ["SHAED Marketplace", "SHAED Catalog", "Hero Page"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Dealer",
+          "role": "Primary",
+          "onboarding_plan": "Enable inventory listing on SHAED Marketplace. Provide tools to create customer-facing catalogs and Hero Pages. Train on lead generation and customer engagement.",
+          "products": ["SHAED Marketplace", "SHAED Catalog", "Hero Page"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "OEM",
+          "role": "Primary",
+          "onboarding_plan": "Showcase commercial vehicle models on SHAED Marketplace. Create Hero Pages for each model. Generate qualified fleet leads through platform.",
+          "products": ["SHAED Marketplace", "Hero Page"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Fleet Management Company",
+          "role": "Secondary",
+          "onboarding_plan": "Provide advisory services using SHAED Catalog and Hero Pages. Integrate Charging Infrastructure Planning for EV adoption assessment.",
+          "products": ["SHAED Catalog", "Hero Page", "Charging Infrastructure Planning"],
+          "integration_status": "Partial (Charging Infrastructure - Phase 3)"
+        }
+      ]
+    },
+    {
+      "stage": "Quote",
+      "name": "Configuration & Pricing",
+      "description": "Configure vehicles, obtain upfitting quotes, and finalize pricing",
+      "stakeholders": [
+        {
+          "name": "Dealer",
+          "role": "Primary",
+          "onboarding_plan": "Use Hero Pages for initial pricing. Integrate Upfit Portal for upfitting quotes. Connect to Lender Network for financing pre-qualification.",
+          "products": ["Hero Page", "Upfit Portal", "Lender Network Integration", "Digital Deal Jackets"],
+          "integration_status": "Partial (Lender Network - Phase 3)"
+        },
+        {
+          "name": "Upfitter",
+          "role": "Primary",
+          "onboarding_plan": "Onboard to Upfit Portal for quote management. Provide access to spec library and vendor marketplace. Enable project tracking and customer communication.",
+          "products": ["Upfit Portal"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Body Manufacturer",
+          "role": "Secondary",
+          "onboarding_plan": "List standard body configurations in Upfit Portal spec library. Enable direct quoting to dealers and fleet operators.",
+          "products": ["Upfit Portal"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Finance",
+          "role": "Secondary",
+          "onboarding_plan": "Join Lender Network to access qualified commercial vehicle financing opportunities. Integrate with Digital Deal Jackets for documentation.",
+          "products": ["Lender Network Integration", "Digital Deal Jackets"],
+          "integration_status": "Partial (Lender Network - Phase 3)"
+        },
+        {
+          "name": "Charging Infrastructure Provider",
+          "role": "Secondary",
+          "onboarding_plan": "Partner with SHAED for Charging Infrastructure Planning services. Receive qualified project leads with design specifications.",
+          "products": ["Charging Infrastructure Planning"],
+          "integration_status": "Phase 3"
+        }
+      ]
+    },
+    {
+      "stage": "Order",
+      "name": "Transaction & Documentation",
+      "description": "Execute transactions, manage documentation, and coordinate delivery",
+      "stakeholders": [
+        {
+          "name": "Dealer",
+          "role": "Primary",
+          "onboarding_plan": "Implement Order Management system for order tracking. Use Digital Deal Jackets for document management. Integrate PaperX AI for automation.",
+          "products": ["Order Management", "Digital Deal Jackets", "PaperX AI"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Upfitter",
+          "role": "Primary",
+          "onboarding_plan": "Use Upfit Portal for work authorization and project execution. Track order status and communicate with dealers and fleet operators.",
+          "products": ["Upfit Portal", "Order Management"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Finance",
+          "role": "Primary",
+          "onboarding_plan": "Process financing through Lender Network. Access documentation via Digital Deal Jackets. Expedite deal closures with automated workflows.",
+          "products": ["Lender Network Integration", "Digital Deal Jackets"],
+          "integration_status": "Partial (Lender Network - Phase 3)"
+        },
+        {
+          "name": "Grant Administrator",
+          "role": "Secondary",
+          "onboarding_plan": "Access organized incentive documentation through Digital Deal Jackets. Streamline compliance and incentive claim processing.",
+          "products": ["Digital Deal Jackets"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Insurance",
+          "role": "Secondary",
+          "onboarding_plan": "Join Insurance Marketplace to offer commercial vehicle policies. Integrate with Order Management for policy issuance at delivery.",
+          "products": ["Insurance Marketplace"],
+          "integration_status": "Phase 5"
+        }
+      ]
+    },
+    {
+      "stage": "Fulfill",
+      "name": "Delivery & Implementation",
+      "description": "Coordinate delivery, complete upfitting, and implement infrastructure",
+      "stakeholders": [
+        {
+          "name": "Dealer",
+          "role": "Primary",
+          "onboarding_plan": "Track delivery status through Order Management. Coordinate with upfitters and logistics providers. Manage final documentation.",
+          "products": ["Order Management", "Digital Deal Jackets"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Upfitter",
+          "role": "Primary",
+          "onboarding_plan": "Execute upfitting projects tracked in Upfit Portal. Update status in real-time. Coordinate with dealers for final delivery.",
+          "products": ["Upfit Portal", "Order Management"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Logistics",
+          "role": "Secondary",
+          "onboarding_plan": "Integrate with Order Management for shipment tracking. Provide real-time status updates. Coordinate pickup and delivery schedules.",
+          "products": ["Order Management"],
+          "integration_status": "Released"
+        },
+        {
+          "name": "Charging Infrastructure Provider",
+          "role": "Secondary",
+          "onboarding_plan": "Execute charging infrastructure installations coordinated through Charging Infrastructure Planning. Provide commissioning and training.",
+          "products": ["Charging Infrastructure Planning"],
+          "integration_status": "Phase 3"
+        }
+      ]
+    },
+    {
+      "stage": "Manage",
+      "name": "Operations & Maintenance",
+      "description": "Manage fleet operations, maintenance, compliance, and optimization",
+      "stakeholders": [
+        {
+          "name": "Fleet Management Company",
+          "role": "Primary",
+          "onboarding_plan": "Deploy Pritchard Dashboard for comprehensive fleet management. Integrate telematics for real-time monitoring. Enable predictive maintenance and compliance tracking.",
+          "products": ["Pritchard Dashboard", "Compliance Management Module", "Service Network Integration"],
+          "integration_status": "Phase 4"
+        },
+        {
+          "name": "End User",
+          "role": "Primary",
+          "onboarding_plan": "Provide access to Pritchard Dashboard for fleet operations. Enable driver behavior monitoring and vehicle health tracking.",
+          "products": ["Pritchard Dashboard"],
+          "integration_status": "Phase 4"
+        },
+        {
+          "name": "Maintenance Provider",
+          "role": "Primary",
+          "onboarding_plan": "Join Service Network to receive work orders from fleet operators. Integrate with Pritchard Dashboard for service history and predictive maintenance.",
+          "products": ["Service Network Integration", "Pritchard Dashboard"],
+          "integration_status": "Phase 4"
+        },
+        {
+          "name": "Telematics Provider",
+          "role": "Secondary",
+          "onboarding_plan": "Integrate telematics data with Pritchard Dashboard. Provide real-time vehicle tracking, diagnostics, and driver behavior analytics.",
+          "products": ["Pritchard Dashboard", "API Platform"],
+          "integration_status": "Phase 4"
+        },
+        {
+          "name": "Insurance",
+          "role": "Secondary",
+          "onboarding_plan": "Offer usage-based insurance through Insurance Marketplace. Access telematics data for risk assessment and policy pricing.",
+          "products": ["Insurance Marketplace", "Pritchard Dashboard"],
+          "integration_status": "Phase 5"
+        },
+        {
+          "name": "Government Agency",
+          "role": "Secondary",
+          "onboarding_plan": "Enable compliance tracking through Compliance Management Module. Provide automated reporting for DOT, FMCSA, EPA, and state regulations.",
+          "products": ["Compliance Management Module"],
+          "integration_status": "Phase 3"
+        }
+      ]
+    },
+    {
+      "stage": "Repeat",
+      "name": "Lifecycle Extension & Replacement",
+      "description": "Optimize remarketing, plan replacements, and extend vehicle lifecycle",
+      "stakeholders": [
+        {
+          "name": "Fleet Management Company",
+          "role": "Primary",
+          "onboarding_plan": "Use Remarketing Optimization for disposal timing and pricing. Access Commercial Vehicle Valuation for replacement planning. Return to SHAED Marketplace for new vehicle acquisition.",
+          "products": ["Remarketing Optimization", "Commercial Vehicle Valuation", "SHAED Marketplace"],
+          "integration_status": "Partial (Remarketing - Phase 5, Valuation - Phase 3)"
+        },
+        {
+          "name": "Remarketing Specialist",
+          "role": "Primary",
+          "onboarding_plan": "Access Remarketing Optimization tools and Commercial Vehicle Valuation data. List vehicles on SHAED Marketplace for resale.",
+          "products": ["Remarketing Optimization", "Commercial Vehicle Valuation", "SHAED Marketplace"],
+          "integration_status": "Partial (Remarketing - Phase 5, Valuation - Phase 3)"
+        },
+        {
+          "name": "Dealer",
+          "role": "Secondary",
+          "onboarding_plan": "Manage trade-in valuations using Commercial Vehicle Valuation. List used inventory on SHAED Marketplace. Support fleet replacement cycles.",
+          "products": ["Commercial Vehicle Valuation", "SHAED Marketplace"],
+          "integration_status": "Partial (Valuation - Phase 3)"
+        },
+        {
+          "name": "End User",
+          "role": "Secondary",
+          "onboarding_plan": "Access SHAED Marketplace for replacement vehicle research. Leverage existing platform relationship for seamless lifecycle continuation.",
+          "products": ["SHAED Marketplace", "SHAED Catalog"],
+          "integration_status": "Released"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,522 @@
+{
+  "market_coverage": {
+    "hero_metric": "75%+ US Commercial Vehicle Market Coverage",
+    "total_stakeholders": 93,
+    "annual_vehicle_volume": "2M+",
+    "market_value": "$213B+",
+    "network_effect": "98.9% stakeholders acquired through referrals"
+  },
+  "stakeholder_categories": {
+    "oems_traditional": {
+      "category": "Traditional OEMs",
+      "total": 15,
+      "market_share": "75%+",
+      "annual_volume": "2M+ units",
+      "description": "Established manufacturers dominating current commercial vehicle market",
+      "partners": [
+        {
+          "name": "Ford",
+          "products": "F-Series trucks, Transit vans, E-Transit electric vans",
+          "market_share": "28-29% full-size pickup market",
+          "annual_units": "1M+ trucks and vans (2024)",
+          "key_metrics": {
+            "f_series_2024": "716,801 units",
+            "f_series_2023": "750,789 units",
+            "transit_2024": "140,128 units (+15% YoY)",
+            "e_transit_2024": "29,193 units (+64% YoY)",
+            "van_market_share": "35-40% full-size commercial van segment"
+          },
+          "achievements": "#1 truck position for 48 consecutive years, 45 years commercial van leadership",
+          "status": "onboarded"
+        },
+        {
+          "name": "General Motors (Chevrolet + GMC)",
+          "products": "Silverado, Sierra pickups, commercial vans",
+          "market_share": "25% combined (GM #1 in full-size pickups for 5 years)",
+          "annual_units": "1.1M+ pickups (2023-2024), 2.7M total vehicles",
+          "key_metrics": {
+            "silverado_annual": "560,000+ units",
+            "gmc_growth_2024": "9% YoY (best year ever)",
+            "overall_market_share": "16.5% US market (2024)"
+          },
+          "achievements": "#1 commercial fleet sales nationwide",
+          "status": "onboarded"
+        },
+        {
+          "name": "Stellantis (RAM)",
+          "products": "Ram pickups, Ram ProMaster vans",
+          "market_share": "16% full-size truck segment",
+          "annual_units": "283,702 Ram pickups (2024)",
+          "key_metrics": {
+            "growth_2024": "+27% YoY",
+            "position": "#3 in full-size pickups"
+          },
+          "challenges": "19% sales decline through Q3 2024 before Q4 recovery",
+          "status": "onboarded"
+        },
+        {
+          "name": "Mercedes-Benz (Sprinter)",
+          "products": "Sprinter commercial vans",
+          "market_share": "15-20% full-size commercial van market",
+          "annual_units": "43,425 US sales (2024)",
+          "key_metrics": {
+            "positioning": "Premium commercial van segment",
+            "reputation": "Strong durability in commercial applications"
+          },
+          "status": "onboarded"
+        },
+        {
+          "name": "Isuzu",
+          "products": "N-Series low-cab-forward trucks, NRR EV electric truck",
+          "market_share": "Market leader in Classes 3-7 low-cab-forward",
+          "annual_units": "22,000+ (2024 record)",
+          "key_metrics": {
+            "n_series_growth": "+6% YoY (2024)",
+            "overall_growth": "+4% over 2023 record"
+          },
+          "achievements": "America's best-selling low-cab-forward manufacturer, launched first electric truck 2024",
+          "status": "onboarded"
+        },
+        {
+          "name": "Peterbilt (PACCAR)",
+          "products": "Class 8 heavy-duty trucks",
+          "market_share": "12-14% Class 8 market (PACCAR total: 29-30%)",
+          "annual_units": "PACCAR: 204,200 deliveries (2023)",
+          "key_metrics": {
+            "market_value": "$265.9B globally",
+            "annual_class_8_market": "231,000-270,000 units"
+          },
+          "status": "onboarded"
+        },
+        {
+          "name": "Mack Trucks (Volvo Group)",
+          "products": "Class 8 heavy-duty trucks",
+          "market_share": "6.9% Class 8 retail (Volvo/Mack combined: 16.8%)",
+          "annual_units": "308,141 North American units (2024)",
+          "key_metrics": {
+            "market_value": "$265.9B globally",
+            "annual_class_8_market": "231,000-270,000 units"
+          },
+          "status": "onboarded"
+        }
+      ]
+    },
+    "oems_electric": {
+      "category": "Electric Vehicle Specialists",
+      "total": 6,
+      "market_value": "$5-15B US market (vs $56-88B global)",
+      "description": "Emerging EV segment with high growth potential but mixed viability",
+      "partners": [
+        {
+          "name": "BrightDrop (GM)",
+          "products": "Zevo 600 (600 cu ft, 250-mile range), Zevo 400 electric delivery vans",
+          "status": "Production - Clear leader",
+          "annual_units": "500+ (2023), targeting 50,000 by 2025",
+          "key_metrics": {
+            "reservations": "25,000+ units",
+            "major_customers": "FedEx (500), Ryder (4,000 through 2025), Walmart",
+            "facility": "CAMI Assembly, Ontario",
+            "production_status": "Restarted April 2024 after battery supply issues"
+          },
+          "achievements": "Leading US-made electric delivery van, sold out 2023 model year"
+        },
+        {
+          "name": "Nikola",
+          "products": "Class 8 hydrogen fuel cell trucks",
+          "status": "Growing production",
+          "annual_units": "Q4 2023: 35, Q1 2024: 40, Q2 2024: 72, FY2024 target: 300-350",
+          "key_metrics": {
+            "facility": "Coolidge, Arizona",
+            "major_customers": "Walmart Canada, 4GEN Logistics, Ailo Logistics (100 units)",
+            "growth": "Quarter-over-quarter growth demonstrated"
+          },
+          "segment": "Niche hydrogen FCEV"
+        },
+        {
+          "name": "Rizon (Daimler)",
+          "products": "e16M/e16L (Class 4), e18L (Class 5) based on Mitsubishi Fuso eCanter",
+          "status": "Early delivery",
+          "annual_units": "Low hundreds (2024)",
+          "key_metrics": {
+            "first_deliveries": "March 2024 (7 to LA Sanitation)",
+            "canadian_deliveries": "October 2024 (22 units)",
+            "certifications": "EPA/CARB September 2023",
+            "backing": "Daimler - 8M km global electric driving experience"
+          },
+          "origin": "Imported from Japan"
+        },
+        {
+          "name": "Harbinger",
+          "products": "Class 4-6 electric chassis, modular batteries (70-245 kWh)",
+          "status": "Pre-revenue",
+          "annual_units": "0 (production claimed Q4 2024)",
+          "key_metrics": {
+            "pre_orders": "4,000 binding units ($400M+ value)",
+            "major_customers": "Bimbo Bakeries USA, THOR Industries, Doggett Equipment (500)",
+            "funding": "$73M Series A + $100M (Jan 2025)",
+            "facility": "Garden Grove, California"
+          },
+          "claims": "Competitive diesel pricing"
+        },
+        {
+          "name": "REE Automotive",
+          "products": "Electric commercial vehicle platforms",
+          "status": "Pre-revenue - Pivoting to software",
+          "annual_units": "0 through Dec 2024, H1 2025 expected",
+          "key_metrics": {
+            "reservations": "$1B (non-binding, speculative)",
+            "cash": "$72.3M (down from $85.6M)",
+            "net_loss_2024": "$111.8M",
+            "pivot": "May 2025 announced shift to software licensing vs manufacturing"
+          },
+          "viability": "Questionable - repeated delays, production challenges"
+        },
+        {
+          "name": "Mullen",
+          "products": "Mullen ONE (Class 1), THREE (Class 3), Bollinger B4 (Class 4)",
+          "status": "Limited production - Questionable viability",
+          "annual_units": "443 FY2024 + 100 Q4 2024 (vs 35 FY2023)",
+          "key_metrics": {
+            "revenue_fy2024": "$21M",
+            "net_loss_fy2024": "$471M",
+            "facility": "Tunica, Mississippi (3,000-6,000 capacity)",
+            "bollinger_b4": "31 trucks delivered"
+          },
+          "concerns": "Massive losses, deferred revenue recognition"
+        }
+      ]
+    },
+    "upfitters": {
+      "category": "Upfitters & Body Manufacturers",
+      "total": 18,
+      "market_value": "$12.8B North American market",
+      "industry_size": "375+ fabricators",
+      "annual_units": "215,000+",
+      "description": "Fragmented market with onboarded partners holding market-leading positions",
+      "partners": [
+        {
+          "name": "Knapheide",
+          "products": "Service bodies (steel/aluminum), platform bodies, dump bodies, truck beds",
+          "market_share": "21%+ North American service body market",
+          "annual_units": "215,000+ service bodies (2023)",
+          "key_metrics": {
+            "revenue": "$750-872M (2024-2025 est)",
+            "employees": "895",
+            "facility": "480,000 sq ft Quincy, Illinois",
+            "expansion": "100,000 sq ft late 2023 (+20% capacity to 95,000+ units)",
+            "history": "175 years"
+          },
+          "claim": "More work vehicles have Knapheide than any other manufacturer in North America"
+        },
+        {
+          "name": "Morgan Truck Body",
+          "products": "Dry freight, refrigerated, platform/dump bodies",
+          "market_share": "28% global truck body market, #1 in multiple segments",
+          "annual_units": "10,000+ electric-compatible units planned annually",
+          "key_metrics": {
+            "fleet_coverage": "50%+ of North America commercial fleet trucks",
+            "investment_2023": "$200M aerodynamic aluminum bodies (15% fuel reduction)",
+            "ev_investment": "$150M electric-compatible production (Aug 2023)"
+          },
+          "position": "Largest light/medium-duty freight and refrigerated body manufacturer in NA"
+        },
+        {
+          "name": "Reading Truck Body (The Shyft Group)",
+          "products": "Service truck bodies, aluminum L-Body Series, enclosed utility bodies",
+          "market_share": "Leading position",
+          "annual_units": "120,000+ operating globally, 8,000+ to gov fleets (2023)",
+          "key_metrics": {
+            "l_body_launch": "March 2024: 3,200+ units in 4 months",
+            "weight_reduction": "30%",
+            "focus": "Corrosion-resistant aluminum/composite for municipal fleets"
+          }
+        },
+        {
+          "name": "Utilimaster (The Shyft Group)",
+          "products": "Walk-in delivery vehicles, Velocity vehicles, refrigerated/specialty units",
+          "market_share": "Leader in walk-in delivery",
+          "annual_units": "3,000+ Velocity orders, 500+ refrigerated units",
+          "key_metrics": {
+            "parent_revenue": "$786M (2024)",
+            "employees": "2,900 across 12+ facilities",
+            "facility": "105,000 sq ft Bristol, Indiana",
+            "alt_fuel_deployed": "800+ vehicles including electric"
+          },
+          "customers": "Parcel delivery (FedEx/UPS-scale), grocery chains"
+        },
+        {
+          "name": "CM Truck Bodies",
+          "products": "Flatbeds, service bodies (SB Series), dump bodies, hay beds",
+          "market_share": "Leading position",
+          "key_metrics": {
+            "claim": "America's #1 Work Truck Bodies",
+            "construction": "4\" structural channel frames",
+            "capacity": "30,000 lb gooseneck, 18,500 lb bumper pull",
+            "recent_products": "Gen 2 SB Service Body (Jan 2020), EpoxiShield coating (Aug 2025)"
+          }
+        },
+        {
+          "name": "Dejana Truck & Utility Equipment",
+          "products": "Truck bodies, van interiors, upfitting",
+          "market_share": "Mid-sized regional",
+          "annual_units": "Not disclosed",
+          "key_metrics": {
+            "revenue": "$64.9M",
+            "employees": "540-550",
+            "locations": "10 nationwide",
+            "parent": "Douglas Dynamics (acquired July 2016)",
+            "certifications": "Ford (ship-thru 31G), Chevrolet, GMC, Ram",
+            "kc_facility": "90,000 sq ft, 300+ vehicle capacity"
+          },
+          "region": "Strong Northeast/Midwest presence"
+        },
+        {
+          "name": "National Fleet Services (NFS)",
+          "products": "Ship-thru upfitting for OEMs",
+          "market_share": "Leading ship-thru partner",
+          "annual_units": "Up to 25,000 vehicles capacity",
+          "key_metrics": {
+            "founded": "1996",
+            "flagship": "100,000 sq ft Avon Lake, Ohio on 23+ acres",
+            "locations": "Detroit x3, Kansas City, Avon Lake, St. Louis",
+            "certifications": "Ford QVM at all locations",
+            "supported_vehicles": "F-150 BEV/Hybrid, Ranger, Transit, Ram ProMaster, Chevy Colorado, Express, GMC Savanna"
+          },
+          "note": "Ship-thru partner, doesn't sell directly to end users"
+        }
+      ]
+    },
+    "charging_partners": {
+      "category": "Charging Infrastructure",
+      "total": 7,
+      "market_share": "46% Level 2 commercial charging (ChargePoint alone)",
+      "market_value": "$4-5B US (2024), projected $16.8B by 2030",
+      "commercial_share": "63.4% of total charging market",
+      "description": "Market leaders spanning Level 2 to megawatt charging systems",
+      "partners": [
+        {
+          "name": "ChargePoint",
+          "products": "CPF50 fleet charger, Express Plus (up to 500kW), Level 2 and DC fast charging",
+          "market_share": "46% US Level 2 commercial charging ports",
+          "infrastructure": "286,000+ active ports globally (Q4 FY2024), expanding to 352,000+ by Q1 FY2026",
+          "key_metrics": {
+            "revenue_fy2024": "$507M",
+            "commercial_revenue": "$350M (69%)",
+            "fleet_revenue": "$91M (18%)",
+            "subscription_revenue": "$120.4M (+41% YoY)",
+            "fortune_50": "74% as customers",
+            "fortune_500": "60% as customers",
+            "roaming_access": "900,000+ global locations"
+          },
+          "partnerships": "GM (500 ultra-fast ports), Mercedes-Benz HPC, WEX fleet",
+          "certifications": "FedRAMP for US government fleets"
+        },
+        {
+          "name": "ABB",
+          "products": "Terra 360 ultra-fast DC (up to 360kW), grid-to-charger solutions",
+          "market_share": "Top 5 global provider",
+          "infrastructure": "14,000+ DC fast chargers across 80+ countries",
+          "key_metrics": {
+            "manufacturing_investment": "$30M (2020)",
+            "rd_investment": "$10M Netherlands R&D",
+            "focus": "Bus fleets, commercial vehicle, depot charging"
+          },
+          "partnerships": "Ionity, Enel X",
+          "expertise": "Smart grid integration, commercial/industrial applications"
+        },
+        {
+          "name": "Blink Charging",
+          "products": "IQ 200, Level 2/DC fast charging, Blink Care maintenance, cloud fleet management",
+          "market_share": "3rd largest US network",
+          "infrastructure": "19,771 chargers globally (2024), 150+ DC fast chargers",
+          "key_metrics": {
+            "revenue_fy2024": "$126.2M",
+            "service_revenue": "$34.8M (+32% YoY, 28% of total)",
+            "monthly_sessions": "2 million",
+            "q2_2024_deployed": "4,106 stations"
+          },
+          "acquisitions": "Zemetric (2025) - cost-optimized Level 2 + AI fleet mgmt",
+          "model": "Vertically integrated manufacturing, ownership, operation"
+        },
+        {
+          "name": "FLO",
+          "products": "FLO Ultra (320kW dual-port), SmartTWO Level 2, SmartDC fast, CoRe+ fleet series",
+          "market_share": "Canadian leader with US expansion",
+          "infrastructure": "130,000+ Level 2 and fast charging stations",
+          "key_metrics": {
+            "monthly_events": "2 million charging events",
+            "funding_2024": "$136M Series E (Export Development Canada)",
+            "expansion": "1,900 FLO Ultra chargers (40% increase in Canadian fast chargers)",
+            "uptime": "98%+",
+            "manufacturing": "Quebec City and Michigan (NEVI compliant)"
+          },
+          "focus": "Grocery chains, convenience stores, municipal transit, commercial fleets"
+        },
+        {
+          "name": "Wallbox",
+          "products": "Supernova 220 DC, Supernova 180 commercial, Pulsar Pro Level 2 (19.2kW), V2X bidirectional",
+          "market_share": "Global technology innovator",
+          "infrastructure": "1M+ EV chargers sold globally (Q2 2024)",
+          "key_metrics": {
+            "revenue_q1_2024": "\u20ac48.8M (+48% YoY)",
+            "generac_investment": "$45M (July 2024)",
+            "generac_dealers": "8,700 distribution network",
+            "dc_growth_target": "80-120% YoY (2024-2025)",
+            "washington_contract": "$25.6M for 148 multi-family properties"
+          },
+          "focus": "Workplace and commercial fleet charging with building energy management"
+        },
+        {
+          "name": "Autel Energy",
+          "products": "MaxiCharger DC (40-640kW), DC All-in-One (480kW, 4 vehicles), MCS (up to 1.2MW), AC Pro (19.2kW dual-port)",
+          "market_share": "Emerging player",
+          "infrastructure": "Not disclosed",
+          "key_metrics": {
+            "founded": "2004 (EV charging 2021)",
+            "manufacturing": "North Carolina and Vietnam",
+            "platform": "COSMOS cloud management",
+            "certifications": "Buy America certified, OCPP 1.6 compliant"
+          },
+          "innovation": "Megawatt Charging System (MCS) for heavy-duty fleets",
+          "focus": "Fleet depot, highway corridor, heavy-duty applications"
+        },
+        {
+          "name": "Enphase Energy",
+          "products": "CS-100 EV Charger (19.2kW), HCS EV Chargers, IQ EV Chargers with NACS",
+          "market_share": "New entrant (July 2024)",
+          "infrastructure": "Limited (just launched)",
+          "key_metrics": {
+            "solar_position": "World's leading microinverter-based solar supplier",
+            "systems_deployed": "4.1M+",
+            "microinverters_shipped": "75M+",
+            "cs100_price": "$2,250",
+            "power": "19.2kW continuous (80 amps)"
+          },
+          "differentiation": "Subscription-free, solar/battery integration for reduced electricity costs",
+          "focus": "Municipal vehicles, school buses, delivery vehicles, ride-sharing, rental cars"
+        }
+      ]
+    },
+    "fleet_customers": {
+      "category": "Major Fleet Customers",
+      "total": 3,
+      "total_fleet_size": "25,600+ vehicles",
+      "annual_purchases": "3,600-4,600 vehicles",
+      "description": "Large fleet operators with significant purchasing power",
+      "partners": [
+        {
+          "name": "Republic Services",
+          "business": "Waste collection and recycling services",
+          "fleet_size": "17,600 commercial vehicles",
+          "fleet_breakdown": {
+            "residential_collection": "7,300 (avg 7.7 years)",
+            "small_container": "5,500 (avg 7.2 years)",
+            "large_container": "4,800 (avg 9.0 years)",
+            "overall_avg_age": "7.9 years"
+          },
+          "annual_purchases": "2,200-2,500 vehicles",
+          "key_metrics": {
+            "revenue_2024": "$16.0B (+7.1% YoY)",
+            "capex_2024": "$1,818M",
+            "capex_2025_guidance": "$1,860-1,900M",
+            "employees": "42,000",
+            "operations": "367 collection, 248 transfer stations, 208 landfills, 75 recycling centers"
+          },
+          "ev_commitment": "50% of new truck purchases will be EVs within 5 years (announced 2023)",
+          "current_ev_fleet": "52 electric collection vehicles, 22 commercial-scale charging facilities",
+          "ev_partnership": "Oshkosh Corporation - fully integrated electric recycling/waste trucks",
+          "alt_fuel": "16% of fleet on CNG, 77% residential routes automated single-driver"
+        },
+        {
+          "name": "United Rentals",
+          "business": "Equipment rental (world's largest)",
+          "fleet_size": "~7,900 support vehicles (53% leased, 47% owned)",
+          "annual_purchases": "800-1,200 vehicles (estimated)",
+          "key_metrics": {
+            "revenue_2024": "$15.4B (+7.1% YoY)",
+            "rental_revenue": "$13.0B (+8.0% YoY)",
+            "rental_equipment_value": "$14.9B net",
+            "locations": "1,400+",
+            "capex_2024_guidance": "$3.4-3.7B (primarily rental equipment)",
+            "share_repurchases": "$1.5B",
+            "dividend_increase": "10%"
+          },
+          "note": "Commercial vehicles are support fleet for equipment delivery/service, not core business",
+          "acquisition": "Ahern Rentals (Dec 2022, $2.0B)"
+        },
+        {
+          "name": "Sunbelt Rentals",
+          "business": "Equipment rental (2nd largest North America, Ashtead Group subsidiary)",
+          "fleet_size": "700+ vehicles (exact total undisclosed)",
+          "annual_purchases": "600-900 vehicles (estimated)",
+          "key_metrics": {
+            "revenue_fy2024": "$10.859B (+12.3% YoY)",
+            "rental_revenue": "$9.630B",
+            "ebitda": "$4.893B (45.1% margin)",
+            "rental_fleet_value": "$18B at cost (April 30, 2024)",
+            "locations": "1,200+",
+            "employees": "~25,000",
+            "capex_fy2024": "$4,311M gross ($3,404M net)",
+            "capex_fy2025_guidance": "$3.0-3.3B"
+          },
+          "ev_initiative": "700 Ford F-150 Lightning ordered (2022-2023), 106 Bobcat T7X electric loaders",
+          "sustainability": "35% GHG emission intensity reduction by 2030 (from 2021)",
+          "note": "Vehicles represent operational overhead for equipment delivery, not core investment"
+        }
+      ]
+    },
+    "dealers": {
+      "total": 14,
+      "description": "Distribution reach across commercial vehicle sales network"
+    },
+    "end_users": {
+      "total": 31,
+      "fleet_size": "25,000+ vehicles",
+      "description": "Fleet operators managing commercial vehicle operations"
+    }
+  },
+  "market_segments": {
+    "traditional_vehicles": {
+      "current_market_share": "75%+",
+      "annual_volume": "2M+ units",
+      "status": "Stable dominance",
+      "key_players": "Ford, GM, Stellantis, Mercedes, Isuzu, Peterbilt, Mack"
+    },
+    "electric_vehicles": {
+      "current_market_share": "2-5%",
+      "us_market_value": "$5-15B",
+      "global_market_value": "$56-88B",
+      "projected_2025": "10-15%",
+      "projected_2030": "30% | $16.8B charging infrastructure",
+      "status": "Rapid growth",
+      "asia_pacific_share": "65% of global volume"
+    }
+  },
+  "value_chain_coverage": {
+    "manufacturing": {
+      "coverage": "High",
+      "partners": 27,
+      "description": "OEMs producing 2M+ annual vehicles"
+    },
+    "upfitting": {
+      "coverage": "High",
+      "partners": 18,
+      "description": "$12.8B market, 215,000+ annual units"
+    },
+    "charging": {
+      "coverage": "Medium",
+      "partners": 7,
+      "description": "46% Level 2 market share, 286,000+ ports"
+    },
+    "sales": {
+      "coverage": "Medium",
+      "partners": 14,
+      "description": "Distribution network"
+    },
+    "end_use": {
+      "coverage": "Growing",
+      "partners": 31,
+      "description": "25,000+ fleet vehicles, 3,600-4,600 annual purchases"
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "overview": {
+    "total_dealerships": 3798,
+    "total_sales": "$235.7B",
+    "avg_dealership_sales": "$62.1M",
+    "total_employees": 209000,
+    "avg_employees_per_dealership": 55
+  },
+  "financial_profile": {
+    "total_sales": 62064258,
+    "gross_profit": 11917177,
+    "gross_profit_percentage": 19.2,
+    "total_expenses": 10139825,
+    "operating_profit": 1777352,
+    "operating_profit_percentage": 2.9,
+    "net_profit_before_tax": 1826093,
+    "net_profit_percentage": 2.9
+  },
+  "new_truck_department": {
+    "total_sales": 30719520,
+    "units_sold": 181,
+    "avg_selling_price": 169723,
+    "gross_profit": 3692160,
+    "gross_profit_percentage": 12.0,
+    "inventory_units": 93,
+    "inventory_value": 14800000,
+    "days_supply": 187,
+    "trends_by_year": [
+      {
+        "year": 2017,
+        "units": 195,
+        "avg_price": 138000
+      },
+      {
+        "year": 2018,
+        "units": 214,
+        "avg_price": 144000
+      },
+      {
+        "year": 2019,
+        "units": 193,
+        "avg_price": 149000
+      },
+      {
+        "year": 2020,
+        "units": 158,
+        "avg_price": 152000
+      },
+      {
+        "year": 2021,
+        "units": 167,
+        "avg_price": 168000
+      },
+      {
+        "year": 2022,
+        "units": 173,
+        "avg_price": 177000
+      },
+      {
+        "year": 2023,
+        "units": 174,
+        "avg_price": 181000
+      },
+      {
+        "year": 2024,
+        "units": 181,
+        "avg_price": 169723
+      }
+    ]
+  },
+  "used_truck_department": {
+    "total_sales": 2651761,
+    "units_sold": 45,
+    "avg_selling_price": 58929,
+    "gross_profit": 265176,
+    "gross_profit_percentage": 10.0,
+    "inventory_units": 18,
+    "inventory_value": 1000000,
+    "trends_by_year": [
+      {
+        "year": 2017,
+        "units": 63,
+        "avg_price": 47562
+      },
+      {
+        "year": 2018,
+        "units": 70,
+        "avg_price": 47901
+      },
+      {
+        "year": 2019,
+        "units": 52,
+        "avg_price": 55395
+      },
+      {
+        "year": 2020,
+        "units": 45,
+        "avg_price": 51155
+      },
+      {
+        "year": 2021,
+        "units": 60,
+        "avg_price": 67330
+      },
+      {
+        "year": 2022,
+        "units": 48,
+        "avg_price": 84369
+      },
+      {
+        "year": 2023,
+        "units": 44,
+        "avg_price": 74111
+      },
+      {
+        "year": 2024,
+        "units": 45,
+        "avg_price": 58929
+      }
+    ]
+  },
+  "service_parts_department": {
+    "total_sales": 20396977,
+    "industry_total": 45424068880,
+    "gross_profit_percentage": 37.4,
+    "service_labor": {
+      "customer_mechanical": 6520000,
+      "warranty": 1940000,
+      "internal": 840000,
+      "total": 9300000
+    },
+    "parts_sales": {
+      "customer_mechanical": 5340000,
+      "warranty": 2410000,
+      "internal": 870000,
+      "body_shop": 350000,
+      "counter": 19900000,
+      "wholesale": 3780000,
+      "other": 300000,
+      "total": 32950000
+    },
+    "operations": {
+      "repair_orders_written": 4779,
+      "total_repair_orders_industry": 10031587,
+      "sales_per_customer_order": 7399,
+      "sales_per_warranty_order": 15215,
+      "parts_per_labor_sale": 3.54,
+      "technicians_with_body": 23,
+      "technicians_without_body": 20,
+      "total_technicians_industry": 47372,
+      "parts_inventory": 664830,
+      "labor_rate": 171
+    },
+    "trends_by_year": [
+      {
+        "year": 2017,
+        "total_sales": 13.97,
+        "per_dealer": 31.63
+      },
+      {
+        "year": 2018,
+        "total_sales": 14.5,
+        "per_dealer": 32.47
+      },
+      {
+        "year": 2019,
+        "total_sales": 15.11,
+        "per_dealer": 33.94
+      },
+      {
+        "year": 2020,
+        "total_sales": 12.65,
+        "per_dealer": 28.11
+      },
+      {
+        "year": 2021,
+        "total_sales": 16.09,
+        "per_dealer": 35.94
+      },
+      {
+        "year": 2022,
+        "total_sales": 18.81,
+        "per_dealer": 41.9
+      },
+      {
+        "year": 2023,
+        "total_sales": 20.51,
+        "per_dealer": 45.79
+      },
+      {
+        "year": 2024,
+        "total_sales": 20.4,
+        "per_dealer": 45.42
+      }
+    ],
+    "key_stats": {
+      "avg_per_dealer": 20400000,
+      "total_technicians": 47372,
+      "repair_orders_written": "10+ million"
+    }
+  },
+  "body_shop_department": {
+    "dealerships_with_body_shop_pct": 28.0,
+    "total_sales": 286060000,
+    "sales_per_repair_order": 3200,
+    "trends_by_year": [
+      {
+        "year": 2017,
+        "pct_with_shop": 38.7,
+        "total_sales": 338.23,
+        "per_order": 1668
+      },
+      {
+        "year": 2018,
+        "pct_with_shop": 36.7,
+        "total_sales": 303.54,
+        "per_order": 1519
+      },
+      {
+        "year": 2019,
+        "pct_with_shop": 34.3,
+        "total_sales": 368.13,
+        "per_order": 2006
+      },
+      {
+        "year": 2020,
+        "pct_with_shop": 35.2,
+        "total_sales": 257.82,
+        "per_order": 2382
+      },
+      {
+        "year": 2021,
+        "pct_with_shop": 32.4,
+        "total_sales": 238.31,
+        "per_order": 2513
+      },
+      {
+        "year": 2022,
+        "pct_with_shop": 32.1,
+        "total_sales": 253.02,
+        "per_order": 2706
+      },
+      {
+        "year": 2023,
+        "pct_with_shop": 30.8,
+        "total_sales": 293.95,
+        "per_order": 2252
+      },
+      {
+        "year": 2024,
+        "pct_with_shop": 28.0,
+        "total_sales": 286.06,
+        "per_order": 3200
+      }
+    ]
+  },
+  "operations": {
+    "total_employees": 55,
+    "sales_employees": 7,
+    "service_technicians": 23,
+    "parts_employees": 4,
+    "body_shop_employees": 3,
+    "administrative": 18,
+    "facility_size_sqft": 45000,
+    "service_bays": 12
+  }
+}

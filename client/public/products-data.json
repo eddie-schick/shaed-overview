@@ -1,0 +1,529 @@
+{
+  "pillars": [
+    {
+      "id": "catalog",
+      "name": "Catalog",
+      "description": "Multi-channel inventory management and customer-facing catalog solutions for commercial vehicle sales",
+      "icon": "ShoppingCart",
+      "products": [
+        {
+          "id": "ev-marketplace",
+          "name": "SHAED Marketplace",
+          "description": "Multi-channel inventory management system for commercial vehicle dealerships with catalog creation and marketplace integration. Centralized management of large-scale inventory with streamlined sales processes across multiple channels supporting all vehicle types and powertrains.",
+          "features": [
+            {
+              "name": "Multi-channel Listing Management",
+              "description": "Manage vehicle listings across various sales channels from a single centralized dashboard. Provides unified control over inventory distribution across multiple platforms, enabling dealers to maintain consistent listings while reaching broader markets through integrated channel management.",
+              "monetizable": true
+            },
+            {
+              "name": "Detailed Vehicle Tracking",
+              "description": "Monitor comprehensive vehicle specifications including make, model, serial numbers, stock numbers, and VIN tracking. Track technical specifications such as cable length, input voltage, output power specifications, and connector types (NACS, SAE J1772). Real-time inventory status tracking across all stages: Live (available for sale), Draft (being prepared), Sold (transaction complete), and Archived (historical records).",
+              "monetizable": true
+            },
+            {
+              "name": "Performance Analytics",
+              "description": "Track total views, inquiries, and listing performance metrics across all sales channels. Monitor engagement data to understand which vehicles generate the most interest, optimize pricing strategies, and identify high-performing sales channels for data-driven inventory management decisions.",
+              "monetizable": true
+            },
+            {
+              "name": "Bulk Operations",
+              "description": "Efficiently filter and manage large volumes of vehicles using multiple criteria including VIN, stock number, or location. Perform mass updates to inventory status, pricing, or specifications, significantly reducing time spent on repetitive tasks and enabling rapid response to market changes.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Commercial vehicle dealerships",
+            "Fleet operators and managers",
+            "Commercial vehicle buyers",
+            "Automotive sales teams"
+          ]
+        },
+        {
+          "id": "shaed-catalog",
+          "name": "SHAED Catalog",
+          "description": "Customer-facing catalog platform where buyers can browse, spec, customize, and order vehicles with dealer inventory management",
+          "features": [
+            {
+              "name": "Vehicle Catalog",
+              "description": "Visual grid or list view of available inventory with advanced filtering capabilities by type, year, make, model, drive type, price range, and availability status. Features real-time pricing display with MSRP comparisons, support for both new 2026 models (Nissan, Volkswagen) and various EV configurations, and direct editing capabilities for quick updates to listings.",
+              "monetizable": true
+            },
+            {
+              "name": "Customer Catalogs",
+              "description": "Create customized vehicle collections tailored for specific customers with personalized showroom experiences designed for fleet buyers. Enables easy vehicle addition and management, allowing dealers to present curated selections that match each customer's specific requirements, preferences, and budget constraints.",
+              "monetizable": true
+            },
+            {
+              "name": "Vehicle Name Configuration",
+              "description": "Customize how vehicle names display throughout the entire system using a flexible format template: {year} {make} {model} {trim}. Ensures consistent vehicle identification across all system interfaces, reports, and customer-facing materials while maintaining professional presentation standards.",
+              "monetizable": true
+            },
+            {
+              "name": "Vehicle Card Configuration",
+              "description": "Customize catalog card layouts and information display to match dealership branding and customer preferences. Control which vehicle specifications, images, and pricing information appear on each card, optimizing the visual presentation for maximum customer engagement and sales effectiveness.",
+              "monetizable": true
+            },
+            {
+              "name": "CommercialEVs.com Integration",
+              "description": "Public-facing marketplace integration that connects buyers with verified commercial EV dealers. Helps buyers access accurate vehicle data, make confident EV fleet purchasing decisions, discover grants and incentives to reduce costs, connect with industry experts for guidance, and access comprehensive charging infrastructure solutions. Enhances dealer visibility and credibility in the commercial EV marketplace.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Commercial vehicle buyers",
+            "Fleet operators",
+            "Dealership sales teams"
+          ]
+        },
+        {
+          "id": "ram-promaster-hero",
+          "name": "SHAED Hero Page",
+          "description": "Dynamic, configurable product showcase interface that enables dealerships and OEMs to promote any commercial vehicle model through a standardized template system. Serves as a digital storefront for available inventory, providing comprehensive vehicle information, specifications, and connection to SHAED's broader ecosystem of stakeholders across the commercial vehicle lifecycle.",
+          "features": [
+            {
+              "name": "Dynamic Vehicle Configuration",
+              "description": "Template-based system adaptable to any OEM or commercial vehicle model with automated population of vehicle specifications, features, and capabilities. Supports multiple powertrain types (EV, ICE, hybrid, CNG, hydrogen) and inventory tiers (new, like-new, varying conditions) with real-time inventory tracking and availability display.",
+              "monetizable": true
+            },
+            {
+              "name": "Comprehensive Information Architecture",
+              "description": "Vehicle overview with key capabilities (payload, range/fuel capacity, power, torque), detailed specifications section (dimensions, engine/motor specs, drivetrain), feature highlights (technology, comfort, safety, connectivity), warranty and coverage information, fuel efficiency/operating cost data, and visual media gallery (images, potentially video).",
+              "monetizable": true
+            },
+            {
+              "name": "Inventory Management Integration",
+              "description": "Multi-tier inventory display by condition, color, configuration, and quantity with real-time unit counts and availability. Provides pricing transparency with MSRP comparison and delivery logistics information for complete buyer visibility.",
+              "monetizable": true
+            },
+            {
+              "name": "Stakeholder Network Connection",
+              "description": "Direct integration with SHAED's ecosystem partners providing connection points for financing, body manufacturers, upfitters, infrastructure (charging/fueling), fleet management and telematics providers. Includes dealer/seller contact mechanisms and quote/order initiation pathways.",
+              "monetizable": true
+            },
+            {
+              "name": "Standardized Content Modules",
+              "description": "Modular design allows for consistent presentation across different vehicles with reusable content blocks (powertrain specs, fuel/charging options, warranty info, payload capacity). Scalable template system for various vehicle classes and configurations (cargo vans, box trucks, chassis cabs, specialty vehicles).",
+              "monetizable": true
+            },
+            {
+              "name": "SHAED Ecosystem Integration",
+              "description": "Powered by SHAED branding and infrastructure with connection to full lifecycle support (Consider through Repeat phases). Provides access to network amplification benefits across all six pillars and integration with body manufacturers, upfitters, maintenance providers, and other lifecycle stakeholders.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Commercial vehicle dealerships",
+            "OEMs and manufacturers",
+            "Fleet operators and buyers",
+            "Commercial vehicle purchasers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "order-management",
+      "name": "Order Management",
+      "description": "End-to-end order lifecycle management from placement to delivery, including upfitter coordination",
+      "icon": "Package",
+      "products": [
+        {
+          "id": "order-management",
+          "name": "Order Management",
+          "description": "Comprehensive web-based management system designed for automotive dealerships and vehicle upfitters to track and manage the complete vehicle order lifecycle from order placement to final delivery. Provides a unified view of all orders across multiple statuses with immediate visibility into the entire operation.",
+          "features": [
+            {
+              "name": "Multi-Stage Order Tracking",
+              "description": "Track vehicles through their entire journey from order placement to final delivery. OEM Status Tracking monitors vehicles through the manufacturer's process including order processing, production scheduling, active production, shipment preparation, transit, delivery, and cancellation stages. Upfitter Status Management provides visibility when vehicles require customization, tracking receipt at upfitter facility, work in progress, and completion. Logistics Partner Integration connects with third-party shipping companies to monitor quote reception, pickup scheduling, dispatch, and final pickup confirmation.",
+              "monetizable": true
+            },
+            {
+              "name": "Advanced Filtering and Search",
+              "description": "Filter orders by multiple criteria including team assignments, customer names, manufacturers, upfitter partners, and custom status designations. Robust search function allows lookup by order numbers, VINs, and status descriptors, enabling users to quickly locate specific orders among thousands of records.",
+              "monetizable": true
+            },
+            {
+              "name": "Detailed Order Information",
+              "description": "View comprehensive details for each order including customer and company information, purchase order references, manufacturer order numbers, vehicle specifications (model year, body style, color), VIN assignment, destination locations, production timelines, estimated and actual completion dates, and delivery schedules. Provides complete visibility into every aspect of the order lifecycle.",
+              "monetizable": true
+            },
+            {
+              "name": "Order State Management",
+              "description": "Support for multiple order states including Active Orders (currently in process), Missing Info Orders (flagged items requiring additional data such as missing stock numbers or body codes), Draft Orders (being prepared but not yet submitted), and Invoiced/Paid Orders (financial status tracking). Enables efficient workflow management and ensures no orders fall through the cracks.",
+              "monetizable": true
+            },
+            {
+              "name": "Stock Management",
+              "description": "View and manage available vehicle inventory with comprehensive details on manufacturer and model information, year, color, VIN, MSRP pricing, stock numbers, associated order numbers, reservation status, and customer assignments. Mark inventory as sold or reserve vehicles for specific customers directly from the inventory view, ensuring accurate real-time inventory tracking.",
+              "monetizable": true
+            },
+            {
+              "name": "Stock Number Generation",
+              "description": "Dedicated interface for creating and managing stock numbers across different departments (Retail, Fleet/Commercial), locations (various dealership sites), conditions (New, Used), acquisition types (Stock, Sold, Internal Transfer), and calendar years. Generated stock numbers can be linked to customers and specific manufacturer orders, providing systematic inventory identification and tracking.",
+              "monetizable": true,
+              "delivered": "2025-09-05"
+            },
+            {
+              "name": "Customer Relationship Management",
+              "description": "Comprehensive customer directory maintains database of all customers with company names, assigned team members, onboarding dates, folder organization for document storage, payment terms, and active status indicators. Customer Onboarding provides structured workflow for adding new customers with contact detail collection, team assignment, multiple representative support per customer, and progress tracking through an onboarding checklist with step-by-step completion monitoring.",
+              "monetizable": true
+            },
+            {
+              "name": "FIN/FAN Code Management",
+              "description": "Specialized feature for managing manufacturer-specific financial codes that help track vehicles in ordering systems. Add codes for specific customer-manufacturer combinations, associate codes with particular teams, manage multiple codes per customer across different manufacturers, and bulk add codes for multiple teams simultaneously. System notes that code updates may take up to 24 hours to take effect, indicating integration with external manufacturer systems.",
+              "monetizable": true
+            },
+            {
+              "name": "Audit Logging",
+              "description": "Comprehensive audit trail tracks all changes made to orders, recording the user who made the change, timestamp of modification, specific fields changed (Logistics Status, OEM Status, delivery dates, etc.), and before/after values with associated order and VIN information. Provides complete accountability and history for compliance auditing, troubleshooting, and dispute resolution purposes.",
+              "monetizable": true
+            },
+            {
+              "name": "Export and Reporting",
+              "description": "Export data to spreadsheets (Excel, CSV formats) for further analysis, external reporting, or integration with other business systems. Interface provides column customization to show or hide specific data fields based on user needs, enabling flexible reporting for different stakeholders and business requirements.",
+              "monetizable": true
+            },
+            {
+              "name": "Data Import Capabilities",
+              "description": "Bulk upload order information through the Import Orders function, streamlining data entry for large order volumes. Reduces manual data entry time and errors when processing multiple orders simultaneously, particularly useful for fleet orders or seasonal inventory purchases.",
+              "monetizable": true
+            },
+            {
+              "name": "Multi-User and Team Support",
+              "description": "Designed for organizations with multiple teams and users, supporting team-based access and filtering, user identification and tracking, role-based workflows, and collaborative order management. Enables efficient coordination across sales teams, operations staff, and management while maintaining appropriate access controls.",
+              "monetizable": true
+            },
+            {
+              "name": "Automated VIN Assignment Report",
+              "description": "Automated daily reporting system that tracks VIN assignments to orders, providing visibility into which vehicles have been assigned VINs by manufacturers and which orders are still pending VIN assignment. Helps operations teams prioritize follow-up actions and maintain accurate order status.",
+              "monetizable": true,
+              "delivered": "2025-08-18"
+            },
+            {
+              "name": "Database Migration to Postgres",
+              "description": "Modern, scalable database architecture using PostgreSQL for enhanced performance, reliability, and data integrity. Supports growing order volumes and complex queries while maintaining fast response times and system stability.",
+              "monetizable": false,
+              "delivered": "2025-09-21"
+            }
+          ],
+          "target_users": [
+            "Automotive dealerships",
+            "Vehicle upfitters",
+            "Fleet management companies",
+            "Commercial sales teams"
+          ]
+        },
+        {
+          "id": "upfit-portal",
+          "name": "Upfit Portal",
+          "description": "Specialized B2B web application that serves as a centralized order management and status tracking system for vehicle upfitting operations. Provides a collaborative platform where upfitter partners can access, monitor, and update the status of vehicle modification orders in real-time.",
+          "features": [
+            {
+              "name": "Order Management Dashboard",
+              "description": "Features two primary views: Open Orders View displays active orders across three status categories (Upfit Unscheduled, Upfit in Progress, Upfit Overdue) with real-time counters, and Completed Orders View provides archive of finished work. Each order record includes comprehensive details: Upfitter Name, Asset #, Customer Name, Customer PO #, OEM Order #, Body Code, VIN #, Status Category, OEM Status, and Target Production Week.",
+              "monetizable": true
+            },
+            {
+              "name": "Advanced Filtering System",
+              "description": "Filter orders by multiple criteria including Customer Name, Upfitter, Status Category, and Upfitter Location with 'All Selected' dropdown options. Additional filters available through 'More Filters' option. Search functionality by VIN#, Customer PO#, or other identifiers enables quick location of specific orders among thousands of records.",
+              "monetizable": true
+            },
+            {
+              "name": "Export Capabilities",
+              "description": "Robust data export functionality with customizable format options (Excel .xlsx or CSV .csv). Column Selection includes Required Columns (OEM Order #, Date Received at Upfitter, Customer Name, Body Code, VIN #, Estimated Upfit Completion Date, Actual Upfit Completion Date, Upfitter Comments) and Optional Columns (Asset #, OEM Status, Vendor Job #, Customer PO #, Target Production Week, Upfitter Location, Status Category, Chassis ETA, Description). Users can selectively choose which data points to include with Reset Selection option for convenience.",
+              "monetizable": true
+            },
+            {
+              "name": "Role-Based Access Control",
+              "description": "Implements role-based permissions with clear notification system. 'Read-only view - no edit access' appears prominently for users with limited permissions, indicating different permission levels for different user types. Ensures upfitter partners have appropriate access to their orders while maintaining data security and operational control.",
+              "monetizable": true
+            },
+            {
+              "name": "Multi-Customer Support",
+              "description": "System handles multiple customers simultaneously (examples: Btdt, Sunbelt Rentals Inc, National Fleet Services, Stellar Industries), allowing upfitters to manage diverse client portfolios from a single interface. Enables efficient workload management across different customer accounts with clear customer identification on each order.",
+              "monetizable": true
+            },
+            {
+              "name": "Real-Time Status Updates",
+              "description": "Partners can update lead times and order statuses in real-time, ensuring Pritchard and end customers have current visibility into production schedules and completion timelines. Status indicators with visual badges (green dots with 'OEM Delivered' or 'Upfit Completed') provide at-a-glance order status recognition.",
+              "monetizable": true
+            },
+            {
+              "name": "Production Planning",
+              "description": "Target Production Week field enables forward planning and capacity management, helping both Pritchard and upfitters coordinate delivery schedules. Supports efficient resource allocation and helps identify potential bottlenecks before they impact customer delivery commitments.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Upfitter partners",
+            "Fleet management companies",
+            "Dealership operations teams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "documentation",
+      "name": "Documentation",
+      "description": "AI-powered document management and processing for automotive sales transactions",
+      "icon": "FileText",
+      "products": [
+        {
+          "id": "digital-deal-jackets",
+          "name": "Digital Deal Jackets",
+          "description": "Comprehensive document management platform designed for automotive dealerships to organize and track all paperwork associated with vehicle sales transactions. Features admin portal dashboard with deal tracking, advanced filtering, and bulk operations.",
+          "features": [
+            {
+              "name": "Deal Tracking Dashboard",
+              "description": "Monitor pending and completed deals with real-time counters. Deal Overview Table displays critical information including Deal Jacket numbers, Customer names, Order status indicators, Completion percentages, VIN numbers, Dealer stock numbers, OEM order numbers, Customer PO numbers, and quick action buttons for viewing and downloading individual deals. Provides centralized visibility into all active and completed transactions.",
+              "monetizable": true
+            },
+            {
+              "name": "Advanced Filtering",
+              "description": "Search and filter deals by Sales Manager, Customer Name, and Order Status. Enables quick location of specific deals among hundreds or thousands of transactions, improving operational efficiency and customer service response times.",
+              "monetizable": true
+            },
+            {
+              "name": "Bulk Operations",
+              "description": "Search and download multiple deal jackets simultaneously, significantly reducing time spent on document retrieval. Particularly useful for month-end reporting, audits, or when providing documentation to multiple stakeholders at once.",
+              "monetizable": true
+            },
+            {
+              "name": "Deal Information Panel",
+              "description": "Left sidebar displays essential deal information including Deal number, Customer PO number, Customer name, Stock number, VIN number, Vehicle make, Vehicle model, Model year, and Assigned salesperson. Provides quick reference to key deal identifiers without requiring navigation away from the document management interface.",
+              "monetizable": true
+            },
+            {
+              "name": "Document Summary Section",
+              "description": "Progress tracking showing total required documents versus uploaded documents with visual indicator of missing documents and overall completion percentage. Helps ensure all necessary paperwork is collected before deal finalization, reducing delays and compliance issues.",
+              "monetizable": true
+            },
+            {
+              "name": "Document Categories",
+              "description": "Comprehensive organization across five major categories: Sales & Sales Support (Customer Approved Spec Quote, Deal Recap, Customer PO, PNI Order Confirmation, OEM Price Order Confirmation, Vendor PO, Purchase Agreement/Customer Invoice, OEM Factory Invoice, OEM Sales Reporting Confirmation, Incentive Claim Paperwork, Signed Incentive Agreement, Supporting Emails), Accounting (Customer Payment Remittance, Floorplan Payoff Confirmation, Proof of Processing, Upfitting Invoice/Vendor Bills), Finance (Installment Contract, Agreement to Provide Insurance, Corporate or LLC Resolution to Sign, Notice to Co-signer, Final Approval with Barcode, Third Party Guaranty, Credit Application, Credit Approval), Tax, Title & License/TTL (Notarized Manufacturer's Sale of Origin/MSO/Title, Copy of Shipping Label for MSO, TTL Quote Request, Power of Attorney, Lienholder Info, State Inspections, Federal ID Number, Proof of Insurance, Photocopy of Physical Plates, Registration Submission Paperwork, Copy of Shipping Label for Plates, Odometer Statement), and Logistics (Logistics Quote Request, Signed Bill of Lading). Each category includes Additional Documents section for flexibility.",
+              "monetizable": true
+            },
+            {
+              "name": "Document Upload & Tracking",
+              "description": "Drag and Drop upload functionality allows files to be uploaded by dragging into designated areas. Browse Option provides traditional file browser for document selection. Required Document Tracking with visual indicators (red highlighting) for mandatory documents. Status Indicators show which documents are missing or uploaded. Multiple Upload Areas provide separate zones for different document types, streamlining the upload process.",
+              "monetizable": true
+            },
+            {
+              "name": "Progress Tracking",
+              "description": "Real-time visual tracking of deal completion status showing percentage complete and highlighting missing required documents. Enables proactive management of deal flow and ensures timely completion of all necessary paperwork.",
+              "monetizable": true
+            },
+            {
+              "name": "Action Buttons",
+              "description": "Share functionality to distribute deal jacket information to relevant stakeholders. Preview Deal Jacket allows viewing complete jacket before finalizing. Secure session management with Logout option. Back Navigation returns to admin portal for efficient workflow.",
+              "monetizable": true
+            },
+            {
+              "name": "PaperX AI Integration",
+              "description": "Seamless integration with PaperX AI for automated document processing and categorization. Uploaded documents are automatically recognized, categorized, and routed to appropriate deal jacket sections, eliminating manual sorting and significantly reducing administrative overhead.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Automotive dealerships",
+            "Sales managers",
+            "Finance and accounting teams",
+            "Compliance officers"
+          ]
+        },
+        {
+          "id": "paperx-ai",
+          "name": "PaperX AI",
+          "description": "SHAED's proprietary artificial intelligence engine designed to revolutionize automotive document management. The platform processes, analyzes, and organizes massive volumes of automotive documents, instantly sorting them into deal jackets by VIN and other key identifiers with exceptional precision.",
+          "features": [
+            {
+              "name": "AI-Powered Document Processing",
+              "description": "Platform leverages advanced machine learning trained on extensive curated dataset of automotive industry documents. AI automatically recognizes, categorizes, and extracts critical information from uploaded documents without manual intervention. Eliminates time-consuming manual data entry and document sorting, allowing staff to focus on higher-value activities.",
+              "monetizable": true
+            },
+            {
+              "name": "Multi-Document Type Training",
+              "description": "Trained on comprehensive range of automotive documents including OEM Invoices from major manufacturers (Ford, Nissan, RAM, Pritchard), Upfitter Invoices from industry suppliers (Morgan, Knapheide, Reading, Stellar Industries, National Fleet Services, Curry Supply, Dejana, Elliott Equipment, Holman, Valew, Versalift), Purchase Agreements and Invoices from Pritchard Companies, Deal Recaps, Floorplan Payoff Confirmation Documents, OEM Sales Entry Confirmation Sheets, Notarized Manufacturer's Sale of Origin and Title documents, and All Four Invoices with Last 8 VIN read and extraction logic. Upcoming capabilities include Customer Purchase Orders and Price Order Confirmation.",
+              "monetizable": true
+            },
+            {
+              "name": "Document Upload System",
+              "description": "Multi-Category Upload Interface allows users to upload documents across different business categories simultaneously. System features intuitive upload module where users select document categories and types before submitting files. Exclusively accepts PDF documents to ensure consistent processing and data extraction accuracy. Flexible Upload Options accommodate multiple document categories in single submission session, perfect for complex deal jackets spanning multiple business functions.",
+              "monetizable": true
+            },
+            {
+              "name": "VIN Search Functionality",
+              "description": "Dedicated search tool allows users to quickly locate all documents associated with specific Vehicle Identification Number. Provides instant access to complete deal histories and associated paperwork organized by vehicle. Essential for quickly retrieving all documentation related to specific vehicle transactions, warranty claims, or customer inquiries.",
+              "monetizable": true
+            },
+            {
+              "name": "Document Status Tracker",
+              "description": "Dual Search Methods include Tracking ID search for monitoring document processing progress and Email-based search to find all documents submitted by specific users. Tracking system provides transparency throughout document processing lifecycle, allowing users to verify submission status and processing completion. Reduces uncertainty and follow-up inquiries about document processing status.",
+              "monetizable": true
+            },
+            {
+              "name": "Analytics Dashboard",
+              "description": "High-Level Metrics display Total Requests submitted to system, Files Uploaded count, Documents Processed successfully, and Document Errors requiring attention. User Statistics Table provides detailed breakdown showing per-user activity including individual request counts, upload volumes, processing success rates, and failed document counts. Export Functionality enables complete analytics data export to Excel for further analysis, reporting, or integration with other business systems. Real-Time Monitoring with refresh capability displays most current processing statistics and user activity.",
+              "monetizable": true
+            },
+            {
+              "name": "Intelligent Categorization",
+              "description": "Documents are automatically routed to appropriate deal jacket sections based on content recognition, eliminating manual sorting requirements. AI analyzes document content, identifies document type, and places it in correct category within deal jacket structure, ensuring consistent organization across all deals.",
+              "monetizable": true
+            },
+            {
+              "name": "Precision Extraction",
+              "description": "AI identifies and extracts key data points such as VINs, customer information, dollar amounts, dates, and other critical transaction details from documents. Extracted data can be used to populate databases, generate reports, and verify transaction accuracy without manual data entry.",
+              "monetizable": true
+            },
+            {
+              "name": "Error Handling",
+              "description": "System tracks processing errors and provides visibility into documents requiring human review or resubmission. Clear error reporting helps users understand why specific documents failed processing and what corrective action is needed, maintaining high processing success rates and data quality.",
+              "monetizable": true
+            }
+          ],
+          "target_users": [
+            "Automotive dealerships",
+            "Document processing teams",
+            "Compliance and audit teams",
+            "Sales operations"
+          ]
+        }
+      ]
+    }
+  ],
+  "traction_metrics": {
+    "core_platform": {
+      "transaction_volume": {
+        "vehicles_tracked": 50000,
+        "transaction_value": 2800000000,
+        "active_platform_logins": 7800,
+        "documents_processed": 70434
+      },
+      "platform_users": {
+        "total_users": 203,
+        "platform_logins": 7800,
+        "note": "demonstrating active usage"
+      }
+    },
+    "product_specific": {
+      "order_management": {
+        "active_users": 167,
+        "customers": 45,
+        "total_logins": 5653,
+        "status_updates": 6294,
+        "market_fit": "82% of all active users are on this product",
+        "note": "Dominant product showing strong product-market fit"
+      },
+      "upfitter_portal": {
+        "active_users": 36,
+        "upfitters_onboarded": 18,
+        "total_logins": 2159,
+        "fully_automated": 3,
+        "note": "real-time production updates"
+      },
+      "paperx_ai": {
+        "documents_processed": 70434,
+        "files_uploaded": 8862,
+        "total_requests": 1498,
+        "success_rate": 99.84,
+        "retrieval_improvement": 98,
+        "note": "improvement in document retrieval time"
+      }
+    },
+    "network_effects": {
+      "stakeholders": {
+        "total_onboarded": 93,
+        "pritchard_derived": 52,
+        "pritchard_percentage": 56,
+        "referral_rate": 65
+      },
+      "ecosystem": {
+        "oems": 21,
+        "oems_via_pritchard": 14,
+        "dealers": 14,
+        "equipment_providers": 18,
+        "fleet_operators": 31,
+        "charging_partners": 7,
+        "finance_partners": 2
+      },
+      "market_reach": {
+        "commercial_vehicle_coverage": "100%",
+        "partner_relationships": 80
+      }
+    },
+    "pritchard_impact": {
+      "financial_value": {
+        "annual_value": 2340000,
+        "roi": 167,
+        "interest_savings": 978000,
+        "interest_notes": "3-day reduction in holding costs on 35,000 vehicles annually at 8.5% interest",
+        "labor_savings": 434720,
+        "labor_notes": "5-8 hours saved per week per employee across 35 team members",
+        "revenue_multiplier": 1020000,
+        "revenue_notes": "50 additional units per salesperson, 840 total additional units at $1,200 avg gross profit"
+      },
+      "operational_improvements": {
+        "task_efficiency": 83,
+        "satisfaction_score": 3.9,
+        "quote_delivery_improvement": 88,
+        "quote_delivery_notes": "3-day reduction in cycle",
+        "digital_storage": 100,
+        "document_loss": 0,
+        "notes": "Digital document storage with instant retrieval"
+      }
+    },
+    "growth_pipeline": {
+      "dealer_pipeline": {
+        "qualified_dealers": 1767,
+        "pritchard_network": 1800,
+        "note": "accessible through Pritchard"
+      },
+      "fleet_opportunity": {
+        "total_customers": 1400,
+        "current_onboarded": 31,
+        "note": "potential for significant expansion"
+      },
+      "oem_expansion": {
+        "total_integration_target": 60,
+        "currently_integrated": 14,
+        "remaining": 46
+      }
+    },
+    "revenue_traction": {
+      "booked_revenue_2026": 1000000,
+      "fundraising": "Raising $3M convertible note bridge round",
+      "growth_target": {
+        "dealers_by_q4_2026": 250,
+        "target_arr": 6000000,
+        "breakeven_dealers": 125
+      }
+    },
+    "strategic_validations": {
+      "amerit_opportunity": {
+        "contract_value_5yr": {
+          "low_estimate": 43000000,
+          "high_estimate": 140000000
+        },
+        "note": "Pritchard won Amerit contract specifically due to SHAED's transparency",
+        "potential_participants": {
+          "low": 148,
+          "high": 287
+        },
+        "vendor_network_request": "Amerit requesting entire vendor network join SHAED"
+      },
+      "network_effect_metrics": {
+        "stakeholders_per_dealer": "50-100",
+        "customer_mandate_examples": "Sunbelt now requires partners to join SHAED",
+        "adoption_rate": "100% organic pull-through",
+        "platform_mandate": "forced adoption where customers mandate usage"
+      }
+    },
+    "legacy_metrics": {
+      "vehicles_tracked_legacy": 43111,
+      "upfit_status_updates_legacy": 6294,
+      "note": "preserving historical data for reference"
+    }
+  },
+  "last_updated": "2025-10-20"
+}
